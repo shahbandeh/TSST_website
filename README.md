@@ -1,6 +1,6 @@
-# STScI Transients Website
+# TSST — Transient Science at Space Telescopes
 
-An original, responsive static website for the STScI Transient Science Research Group. It adapts the content architecture of the group's Google Site into a polished single-page experience inspired by the section-based navigation of HTML5 UP's Hyperspace template.
+An original, responsive static website for Transient Science at Space Telescopes (TSST), including the STScI's Transients people directory.
 
 ## What is included
 
