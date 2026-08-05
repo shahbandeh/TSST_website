@@ -29,3 +29,26 @@ const sectionObserver = new IntersectionObserver(entries => {
 }, { rootMargin: '-35% 0px -55% 0px' });
 
 sections.forEach(section => sectionObserver.observe(section));
+
+const tabs = [...document.querySelectorAll('[role="tab"]')];
+
+function selectTab(tab) {
+  tabs.forEach(item => {
+    const selected = item === tab;
+    item.setAttribute('aria-selected', selected);
+    item.tabIndex = selected ? 0 : -1;
+    document.getElementById(item.getAttribute('aria-controls')).hidden = !selected;
+  });
+}
+
+tabs.forEach((tab, index) => {
+  tab.addEventListener('click', () => selectTab(tab));
+  tab.addEventListener('keydown', event => {
+    if (!['ArrowLeft', 'ArrowRight', 'Home', 'End'].includes(event.key)) return;
+    event.preventDefault();
+    let next = event.key === 'Home' ? 0 : event.key === 'End' ? tabs.length - 1 : index + (event.key === 'ArrowRight' ? 1 : -1);
+    next = (next + tabs.length) % tabs.length;
+    selectTab(tabs[next]);
+    tabs[next].focus();
+  });
+});
