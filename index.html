@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="The STScI Transient Science Research Group studies the dynamic universe with Hubble, Webb, Roman, and time-domain surveys.">
+  <title>STScI Transients | Exploring the Dynamic Universe</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+  <script src="script.js" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+
+  <button class="menu-toggle" type="button" aria-controls="sidebar" aria-expanded="false">
+    <span></span><span></span><span></span><span class="sr-only">Open navigation</span>
+  </button>
+
+  <aside id="sidebar" class="sidebar" aria-label="Primary navigation">
+    <a class="identity" href="#home" aria-label="STScI Transients home">
+      <svg viewBox="0 0 64 64" aria-hidden="true"><circle cx="32" cy="32" r="5"/><ellipse cx="32" cy="32" rx="27" ry="11"/><ellipse cx="32" cy="32" rx="27" ry="11" transform="rotate(60 32 32)"/></svg>
+      <span><b>STScI</b> Transients</span>
+    </a>
+    <nav>
+      <a class="active" href="#home"><span>01</span>Home</a>
+      <a href="#mission"><span>02</span>Mission</a>
+      <a href="#projects"><span>03</span>Projects</a>
+      <a href="#team"><span>04</span>Team</a>
+      <a href="#connect"><span>05</span>Connect</a>
+    </nav>
+    <p class="sidebar-note">Space Telescope Science Institute<br>Baltimore, Maryland</p>
+  </aside>
+
+  <main id="main">
+    <section id="home" class="panel hero">
+      <div class="stars" aria-hidden="true"></div>
+      <div class="hero-orbit" aria-hidden="true"><span></span></div>
+      <div class="section-inner reveal">
+        <p class="kicker">Transient Science Research Group</p>
+        <h1>We study a universe<br>that refuses to <em>stand still.</em></h1>
+        <p class="lede">From exploding stars to feeding black holes, we use the world’s most powerful observatories to catch the cosmos in the act of changing.</p>
+        <div class="actions">
+          <a class="button primary" href="#projects">Explore our science <span>↘</span></a>
+          <a class="button text-button" href="#team">Meet the transient hunters</a>
+        </div>
+      </div>
+      <a class="scroll-cue" href="#mission"><span>Scroll to discover</span><i>↓</i></a>
+    </section>
+
+    <section id="mission" class="panel mission">
+      <div class="section-inner reveal">
+        <p class="kicker">Our mission</p>
+        <div class="statement-grid">
+          <h2>The sky is always<br><em>telling a story.</em></h2>
+          <div>
+            <p class="large-copy">We bring together observers, theorists, and data scientists to understand the brief, brilliant events that reshape our universe.</p>
+            <p>Our team combines rapid-response observations, archival discovery, precision cosmology, and new computational tools. Working across the electromagnetic spectrum, we turn moments of cosmic change into lasting insight.</p>
+          </div>
+        </div>
+        <div class="stats" aria-label="Research highlights">
+          <div><strong>HST</strong><span>Ultraviolet &amp; optical</span></div>
+          <div><strong>JWST</strong><span>Infrared discovery</span></div>
+          <div><strong>Roman</strong><span>Future wide-field surveys</span></div>
+          <div><strong>24/7</strong><span>A dynamic universe</span></div>
+        </div>
+      </div>
+    </section>
+
+    <section id="projects" class="panel projects">
+      <div class="section-inner reveal">
+        <div class="section-heading">
+          <div><p class="kicker">Selected research</p><h2>Tracking the<br><em>transient universe.</em></h2></div>
+          <p>Our programs span nearby stellar explosions, distant gravitational lenses, dusty environments, and intelligent discovery at survey scale.</p>
+        </div>
+        <div class="project-grid">
+          <article class="project-card featured">
+            <div class="project-art art-nuts" aria-hidden="true"><span></span></div>
+            <div class="project-copy"><p class="project-number">01 / Hubble</p><h3>Narrow-Field NUV Transient Survey</h3><p>The deepest and fastest ultraviolet time-domain survey of its kind, designed to catch the shock breakout and cooling of core-collapse supernovae.</p><span class="tag">This is NUTS!</span></div>
+          </article>
+          <article class="project-card">
+            <div class="project-art art-lens" aria-hidden="true"><span></span></div>
+            <div class="project-copy"><p class="project-number">02 / Cosmology</p><h3>Lensed Supernovae</h3><p>Using time delays between gravitationally lensed images to probe cosmic expansion and dark energy.</p></div>
+          </article>
+          <article class="project-card">
+            <div class="project-art art-dust" aria-hidden="true"><span></span></div>
+            <div class="project-copy"><p class="project-number">03 / Webb</p><h3>Dusty SNe with JWST</h3><p>Distinguishing newly formed ejecta dust from pre-existing material around supernovae.</p></div>
+          </article>
+          <article class="project-card">
+            <div class="project-art art-ml" aria-hidden="true"><span></span></div>
+            <div class="project-copy"><p class="project-number">04 / Big Data</p><h3>Machine Learning for Transients</h3><p>Building tools that find the rarest and most informative events among thousands of nightly discoveries.</p></div>
+          </article>
+        </div>
+        <a class="inline-link" href="https://sites.google.com/view/stsci-transients/projects" target="_blank" rel="noopener">View all projects on the original site <span>↗</span></a>
+      </div>
+    </section>
+
+    <section id="team" class="panel team">
+      <div class="section-inner reveal">
+        <p class="kicker">The people</p>
+        <div class="statement-grid">
+          <h2>Transient hunters.<br><em>One theorist.</em></h2>
+          <div><p class="large-copy">A collaborative group of scientists based at STScI, Johns Hopkins University, and partner institutions.</p><p>We share expertise across supernovae, tidal disruption events, cosmology, gravitational lensing, dust, light echoes, machine learning, and software development.</p></div>
+        </div>
+        <div class="leadership">
+          <article><span class="avatar">OF</span><div><small>Principal Investigator</small><h3>Ori Fox</h3><p>Supernovae · Progenitors · Dust · CSM interaction</p></div></article>
+          <article><span class="avatar">AR</span><div><small>Principal Investigator</small><h3>Armin Rest</h3><p>Supernovae · Light echoes · Cosmology · Big data</p></div></article>
+          <article><span class="avatar">LS</span><div><small>Principal Investigator</small><h3>Louis-Gregory Strolger</h3><p>Star formation · Supernovae · Stellar evolution</p></div></article>
+        </div>
+        <a class="button outline" href="https://sites.google.com/view/stsci-transients/transient-hunters" target="_blank" rel="noopener">Meet the full team <span>↗</span></a>
+      </div>
+    </section>
+
+    <section id="connect" class="panel connect">
+      <div class="section-inner reveal">
+        <p class="kicker">Stay curious</p>
+        <h2>Something extraordinary<br>could happen <em>tonight.</em></h2>
+        <p class="lede">Follow our work as we explore the changing sky with Hubble, Webb, Roman, and the next generation of time-domain surveys.</p>
+        <a class="button primary light" href="https://sites.google.com/view/stsci-transients/home" target="_blank" rel="noopener">Visit the original site <span>↗</span></a>
+        <footer><p>STScI Transient Science Research Group</p><p>Built for the dynamic universe.</p></footer>
+      </div>
+    </section>
+  </main>
+</body>
+</html>
