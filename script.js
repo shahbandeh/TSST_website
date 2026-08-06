@@ -30,6 +30,17 @@ const sectionObserver = new IntersectionObserver(entries => {
 
 sections.forEach(section => sectionObserver.observe(section));
 
+document.querySelectorAll('.block-title').forEach(button => {
+  const dialog = document.getElementById(button.dataset.dialog);
+  button.addEventListener('click', () => dialog.showModal());
+  dialog.querySelector('.dialog-close').addEventListener('click', () => dialog.close());
+  dialog.addEventListener('click', event => {
+    const bounds = dialog.getBoundingClientRect();
+    const outside = event.clientX < bounds.left || event.clientX > bounds.right || event.clientY < bounds.top || event.clientY > bounds.bottom;
+    if (outside) dialog.close();
+  });
+});
+
 const tabs = [...document.querySelectorAll('[role="tab"]')];
 
 function selectTab(tab) {
