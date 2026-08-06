@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T14:48:51.477169+00:00",
+  "generated_at": "2026-08-06T14:53:30.639676+00:00",
   "source": "NASA ADS",
   "members": [
     {
@@ -508,7 +508,7 @@
     },
     {
       "name": "Xiaolong Li",
-      "group": "Affiliate",
+      "group": "Postdoc",
       "photo": "assets/people/xiaolong-li.png",
       "papers": [
         {
@@ -569,33 +569,33 @@
       ]
     },
     {
-      "name": "Yossef Zenati",
+      "name": "Russell Ryan",
       "group": "Affiliate",
-      "photo": "assets/people/yossef-zenati.png",
+      "photo": "assets/people/russell-ryan.svg",
       "papers": [
         {
-          "bibcode": "2019MNRAS.482.1135Z",
-          "title": "Formation and evolution of hybrid He-CO white dwarfs and their properties",
-          "year": "2019",
-          "publication": "Monthly Notices of the Royal Astronomical Society",
-          "citation_count": 81,
-          "url": "https://ui.adsabs.harvard.edu/abs/2019MNRAS.482.1135Z/abstract"
+          "bibcode": "2008ApJ...678..751R",
+          "title": "Galaxy Mergers at z gtrsim 1 in the HUDF: Evidence for a Peak in the Major Merger Rate of Massive Galaxies",
+          "year": "2008",
+          "publication": "The Astrophysical Journal",
+          "citation_count": 67,
+          "url": "https://ui.adsabs.harvard.edu/abs/2008ApJ...678..751R/abstract"
         },
         {
-          "bibcode": "2019MNRAS.486.1805Z",
-          "title": "Neutron star-white dwarf mergers: early evolution, physical properties, and outcomes",
-          "year": "2019",
-          "publication": "Monthly Notices of the Royal Astronomical Society",
-          "citation_count": 70,
-          "url": "https://ui.adsabs.harvard.edu/abs/2019MNRAS.486.1805Z/abstract"
+          "bibcode": "2012ApJ...749...53R",
+          "title": "The Size Evolution of Passive Galaxies: Observations from the Wide-Field Camera 3 Early Release Science Program",
+          "year": "2012",
+          "publication": "The Astrophysical Journal",
+          "citation_count": 55,
+          "url": "https://ui.adsabs.harvard.edu/abs/2012ApJ...749...53R/abstract"
         },
         {
-          "bibcode": "2020MNRAS.493.3956Z",
-          "title": "Faint rapid red transients from neutron star-CO white dwarf mergers",
-          "year": "2020",
-          "publication": "Monthly Notices of the Royal Astronomical Society",
-          "citation_count": 47,
-          "url": "https://ui.adsabs.harvard.edu/abs/2020MNRAS.493.3956Z/abstract"
+          "bibcode": "1973ITNS...20..473R",
+          "title": "Precision Measurements of the Ionization Energy and Its Temperature Variation in High Purity Silicon Radiation Detectors",
+          "year": "1973",
+          "publication": "IEEE Transactions on Nuclear Science",
+          "citation_count": 50,
+          "url": "https://ui.adsabs.harvard.edu/abs/1973ITNS...20..473R/abstract"
         }
       ]
     }
