@@ -126,6 +126,7 @@ button, a { -webkit-tap-highlight-color: transparent; }
 .beyond-grid h3 { margin: 1.2rem 0 .7rem; font-size: 1.15rem; line-height: 1.25; }
 .beyond-grid p { margin: 0; color: #b6a5a8; font-size: .78rem; }
 .block-dialog { width: min(90vw,56rem); max-height: 86vh; padding: clamp(2rem,5vw,4rem); color: var(--ink); background: var(--paper); border: 0; border-top: .4rem solid var(--red); border-radius: .75rem; box-shadow: 0 2rem 6rem rgba(0,0,0,.5); }
+.science-dialog { width: min(94vw,76rem); max-height: 92vh; }
 .block-dialog::backdrop { background: rgba(24,5,9,.82); backdrop-filter: blur(6px); }
 .block-dialog .dialog-close { position: absolute; top: 1rem; right: 1rem; width: 2.5rem; height: 2.5rem; border: 1px solid var(--line); border-radius: 50%; color: var(--ink); background: var(--white); cursor: pointer; font-size: 1.5rem; line-height: 1; }
 .block-dialog > h2 { max-width: 44rem; margin: .5rem 3rem 1.5rem 0; font-size: clamp(2rem,5vw,4.25rem); }
@@ -135,6 +136,13 @@ button, a { -webkit-tap-highlight-color: transparent; }
 .dialog-columns p, .dialog-columns li { color: var(--muted); font-size: .83rem; }
 .dialog-columns ul { margin: 0; padding-left: 1.2rem; }
 .dialog-columns li + li { margin-top: .55rem; }
+.block-projects { margin-top: 2.5rem; padding-top: 2rem; border-top: 1px solid var(--line); }
+.block-projects > h3 { margin: 0 0 1rem; font-size: .72rem; letter-spacing: .1em; text-transform: uppercase; }
+.block-projects > div { display: grid; grid-template-columns: repeat(3,1fr); gap: .8rem; }
+.block-projects article { min-height: 12rem; padding: 1.35rem; background: var(--white); border: 1px solid var(--line); border-radius: .55rem; }
+.block-projects article p { margin: 0; color: var(--red); font: 500 .54rem 'DM Mono'; letter-spacing: .1em; text-transform: uppercase; }
+.block-projects h4 { margin: .7rem 0; font-size: 1rem; line-height: 1.25; }
+.block-projects article span { display: block; color: var(--muted); font-size: .72rem; line-height: 1.55; }
 
 /* Team */
 .team { background: var(--white); }
@@ -228,7 +236,7 @@ button, a { -webkit-tap-highlight-color: transparent; }
   .team-panel article { padding: 1.3rem; }
   .team-tabs button { min-width: 7rem; }
   .project-leads { grid-template-columns: 1fr; }
-  .beyond-grid, .dialog-columns { grid-template-columns: 1fr; }
+  .beyond-grid, .dialog-columns, .block-projects > div { grid-template-columns: 1fr; }
   .connect-grid { grid-template-columns: 1fr; }
   .connect footer { display: block; }
   .connect footer > p { margin: 1rem 0; }
