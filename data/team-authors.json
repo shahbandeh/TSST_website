@@ -12,9 +12,14 @@
   {"name":"Zac Lane","group":"Postdoc","photo":"assets/people/zac-lane.jpg","query":"author:\"^Lane, Zac\" property:refereed"},
   {"name":"Thomas Moore","group":"Postdoc","photo":"assets/people/thomas-moore.jpg","query":"author:\"^Moore, Thomas\" property:refereed"},
   {"name":"Matt Siebert","group":"Postdoc","photo":"assets/people/matt-siebert.jpg","query":"author:\"^Siebert, Matthew\" property:refereed"},
+  {"name":"Estefania Padilla Gonzalez","group":"Postdoc","photo":"assets/people/estefania-padilla-gonzalez.png","query":"author:\"^Padilla Gonzalez, Estefania\" property:refereed"},
   {"name":"Rodrigo Angulo","group":"Student","photo":"assets/people/rodrigo-angulo.jpg","query":"author:\"^Angulo, Rodrigo\" property:refereed"},
   {"name":"Kyle Dalrymple","group":"Student","photo":"assets/people/kyle-dalrymple.jpg","query":"author:\"^Dalrymple, Kyle\" property:refereed"},
   {"name":"Muryel Guolo","group":"Student","photo":"assets/people/muryel-guolo.jpg","query":"author:\"^Guolo, Muryel\" property:refereed"},
   {"name":"Mitchell Karmen","group":"Student","photo":"assets/people/mitchell-karmen.png","query":"author:\"^Karmen, Mitchell\" property:refereed"},
-  {"name":"Koji Shukawa","group":"Student","photo":"assets/people/koji-shukawa.jpg","query":"author:\"^Shukawa, Koji\" property:refereed"}
+  {"name":"Koji Shukawa","group":"Student","photo":"assets/people/koji-shukawa.jpg","query":"author:\"^Shukawa, Koji\" property:refereed"},
+  {"name":"Daniel J. D'Orazio","group":"Affiliate","photo":"assets/people/daniel-dorazio.png","query":"author:\"^D'Orazio, Daniel\" property:refereed"},
+  {"name":"Xiaolong Li","group":"Affiliate","photo":"assets/people/xiaolong-li.png","query":"author:\"^Li, Xiaolong\" property:refereed"},
+  {"name":"Bob Williams","group":"Affiliate","photo":"assets/people/bob-williams.jpg","query":"author:\"^Williams, Robert\" property:refereed"},
+  {"name":"Yossef Zenati","group":"Affiliate","photo":"assets/people/yossef-zenati.png","query":"author:\"^Zenati, Yossef\" property:refereed"}
 ]
