@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-06T14:11:43.246203+00:00",
+  "generated_at": "2026-08-06T14:23:24.894435+00:00",
   "source": "NASA ADS",
   "members": [
     {
       "name": "Ori Fox",
-      "group": "Leader",
+      "group": "Team Lead",
       "photo": "assets/people/ori-fox.jpg",
       "papers": [
         {
@@ -35,7 +35,7 @@
     },
     {
       "name": "Armin Rest",
-      "group": "Leader",
+      "group": "Team Lead",
       "photo": "assets/people/armin-rest.jpg",
       "papers": [
         {
@@ -66,7 +66,7 @@
     },
     {
       "name": "Louis-Gregory Strolger",
-      "group": "Leader",
+      "group": "Team Lead",
       "photo": "assets/people/louis-gregory-strolger.jpg",
       "papers": [
         {
@@ -97,7 +97,7 @@
     },
     {
       "name": "Justin Pierel",
-      "group": "PI",
+      "group": "Block Lead",
       "photo": "assets/people/justin-pierel.jpg",
       "papers": [
         {
@@ -128,7 +128,7 @@
     },
     {
       "name": "Melissa Shahbandeh",
-      "group": "PI",
+      "group": "Block Lead",
       "photo": "assets/people/melissa-shahbandeh.jpg",
       "papers": [
         {
@@ -159,7 +159,7 @@
     },
     {
       "name": "Mike Engesser",
-      "group": "PI",
+      "group": "Block Lead",
       "photo": "assets/people/mike-engesser.jpg",
       "papers": []
     },
