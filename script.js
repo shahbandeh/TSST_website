@@ -17,7 +17,7 @@ const observer = new IntersectionObserver(entries => {
   entries.forEach(entry => {
     if (entry.isIntersecting) entry.target.classList.add('visible');
   });
-}, { threshold: 0.14 });
+}, { threshold: 0, rootMargin: '0px 0px -8% 0px' });
 
 document.querySelectorAll('.reveal').forEach(item => observer.observe(item));
 

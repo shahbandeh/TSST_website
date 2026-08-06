@@ -36,8 +36,8 @@ button, a { -webkit-tap-highlight-color: transparent; }
 .menu-toggle { display: none; }
 
 .panel { position: relative; overflow: hidden; }
-.section-inner { position: relative; z-index: 2; width: min(100%, 1280px); margin: auto; padding: clamp(5rem, 9vw, 9rem) var(--pad); }
-.kicker { margin: 0 0 1.5rem; color: var(--red); font: 500 .68rem 'DM Mono'; text-transform: uppercase; letter-spacing: .2em; }
+.section-inner { position: relative; z-index: 2; min-width: 0; width: min(100%, 1280px); margin: auto; padding: clamp(5rem, 9vw, 9rem) var(--pad); }
+.kicker { margin: 0 0 1.5rem; overflow-wrap: anywhere; color: var(--red); font: 500 .68rem 'DM Mono'; text-transform: uppercase; letter-spacing: .2em; }
 .kicker:before { content: ""; display: inline-block; width: 2.5rem; height: 2px; margin-right: .9rem; background: currentColor; vertical-align: middle; }
 .panel h2 { margin: 0; font-size: clamp(2.8rem, 5vw, 5.8rem); line-height: 1.02; letter-spacing: -.05em; }
 
@@ -174,13 +174,14 @@ button, a { -webkit-tap-highlight-color: transparent; }
 .publications h2 em { color: var(--red); }
 .sync-status { margin-top: 1rem; color: var(--red-dark); font: 500 .6rem 'DM Mono'; text-transform: uppercase; letter-spacing: .08em; }
 .publication-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 1rem; }
-.publication-author { overflow: hidden; background: var(--white); border: 1px solid var(--line); border-radius: .75rem; }
+.publication-author { min-width: 0; overflow: hidden; background: var(--white); border: 1px solid var(--line); border-radius: .75rem; }
 .publication-author-header { display: flex; align-items: center; gap: 1rem; padding: 1.2rem 1.4rem; border-bottom: 1px solid var(--line); }
 .publication-author-header img { width: 3.1rem; height: 3.1rem; object-fit: cover; object-position: center top; border-radius: .35rem; }
 .publication-author-header h3 { margin: 0; font-size: 1rem; }
 .publication-author-header p { margin: .1rem 0 0; color: var(--red); font: 500 .53rem 'DM Mono'; text-transform: uppercase; letter-spacing: .08em; }
 .paper-list { margin: 0; padding: 0; list-style: none; }
 .paper-list li { display: grid; grid-template-columns: 2.4rem 1fr; gap: .8rem; padding: 1rem 1.4rem; border-bottom: 1px solid #ebe4de; }
+.paper-list li > div { min-width: 0; }
 .paper-list li:last-child { border: 0; }
 .paper-rank { color: #b8aba6; font: 400 .7rem 'DM Mono'; }
 .paper-list a { text-decoration: none; font-size: .82rem; font-weight: 700; line-height: 1.35; }
@@ -229,17 +230,27 @@ button, a { -webkit-tap-highlight-color: transparent; }
 }
 
 @media (max-width: 650px) {
+  .reveal { opacity: 1; transform: none; transition: none; }
   .section-inner { padding: 5rem 1.4rem; }
   .hero .section-inner { padding-top: 8.5rem; }
-  .hero h1, .panel h2 { letter-spacing: -.04em; }
+  .hero h1 { font-size: clamp(2.7rem, 14vw, 3.4rem); }
+  .hero h1, .panel h2 { overflow-wrap: anywhere; letter-spacing: -.04em; }
   .actions { align-items: flex-start; flex-direction: column; }
   .stats { grid-template-columns: 1fr 1fr; }
   .project-card.featured { display: flex; }
   .project-art { min-height: 14rem; }
   .team-panel article { padding: 1.3rem; }
+  .team-tabs { margin-right: -1.4rem; padding-right: 1.4rem; border-radius: .75rem 0 0 .75rem; scrollbar-width: thin; }
   .team-tabs button { min-width: 7rem; }
   .project-leads { grid-template-columns: 1fr; }
   .beyond-grid, .dialog-columns, .block-projects > div { grid-template-columns: 1fr; }
+  .block-dialog, .science-dialog { width: calc(100vw - 1rem); max-height: calc(100dvh - 1rem); padding: 1.5rem 1.2rem 2rem; }
+  .block-dialog > h2 { margin-right: 2.5rem; font-size: clamp(1.8rem, 10vw, 2.7rem); }
+  .block-dialog .dialog-close { top: .75rem; right: .75rem; }
+  .publication-author-header { padding: 1rem; }
+  .paper-list li { grid-template-columns: 1.7rem minmax(0,1fr); gap: .55rem; padding: .9rem 1rem; }
+  .paper-list a { overflow-wrap: anywhere; font-size: .78rem; }
+  .paper-meta { line-height: 1.45; }
   .connect-grid { grid-template-columns: 1fr; }
   .connect footer { display: block; }
   .connect footer > p { margin: 1rem 0; }
