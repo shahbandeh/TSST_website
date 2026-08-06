@@ -127,6 +127,8 @@ button, a { -webkit-tap-highlight-color: transparent; }
 .avatar { flex: 0 0 4.2rem; width: 4.2rem; height: 4.2rem; display: block; object-fit: cover; object-position: center top; background: var(--red-dark); border: 2px solid #fff; border-radius: .45rem; box-shadow: 0 5px 15px rgba(56,20,24,.12); }
 .team-panel small { order: 2; color: var(--red); font: 500 .54rem 'DM Mono'; text-transform: uppercase; letter-spacing: .08em; }
 .team-panel h3 { order: 1; margin: .1rem 0 .25rem; font-size: 1.05rem; }
+.team-panel h3 a { text-decoration-color: rgba(197,43,50,.35); text-underline-offset: .2em; }
+.team-panel h3 a:hover { color: var(--red); text-decoration-color: var(--red); }
 .team-panel p { order: 3; margin: .45rem 0 0; color: var(--muted); font-size: .7rem; }
 .button.outline { border: 1px solid #bfb2aa; }
 

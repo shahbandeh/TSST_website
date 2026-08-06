@@ -4,6 +4,7 @@
   {"name":"Louis-Gregory Strolger","group":"Team Lead","photo":"assets/people/louis-gregory-strolger.jpg","query":"author:\"^Strolger, Louis-Gregory\" property:refereed"},
   {"name":"Justin Pierel","group":"Block Lead","photo":"assets/people/justin-pierel.jpg","query":"author:\"^Pierel, Justin\" property:refereed"},
   {"name":"Melissa Shahbandeh","group":"Block Lead","photo":"assets/people/melissa-shahbandeh.jpg","query":"author:\"^Shahbandeh, Melissa\" property:refereed"},
+  {"name":"Dave Coulter","group":"Block Lead","photo":"assets/people/dave-coulter.jpg","query":"author:\"^Coulter, David\" property:refereed"},
   {"name":"Mike Engesser","group":"Block Lead","photo":"assets/people/mike-engesser.jpg","query":"author:\"^Engesser, Michael\" property:refereed"},
   {"name":"James DerKacy","group":"Postdoc","photo":"assets/people/james-derkacy.jpg","query":"author:\"^DerKacy, James\" property:refereed"},
   {"name":"Conor Larison","group":"Postdoc","photo":"assets/people/conor-larison.jpg","query":"author:\"^Larison, Conor\" property:refereed"},
