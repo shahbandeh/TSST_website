@@ -45,7 +45,7 @@ button, a { -webkit-tap-highlight-color: transparent; }
 .hero { min-height: 94vh; display: flex; align-items: center; color: #fff; background-image: linear-gradient(90deg, rgba(24,5,9,.94) 0%, rgba(30,7,11,.82) 38%, rgba(46,9,14,.26) 72%, rgba(20,3,7,.12) 100%), url('assets/hero-lensed-transients.png'); background-color: var(--wine); background-size: cover; background-position: center; }
 .hero:after { content: "TRANSIENT"; position: absolute; right: -2vw; bottom: -7vw; color: rgba(255,255,255,.025); font-size: 17vw; font-weight: 800; letter-spacing: -.08em; line-height: 1; }
 .hero .section-inner { width: min(100%, 1180px); padding-top: 10rem; padding-bottom: 8rem; }
-.hero-brand { width: 11.5rem; height: 7.2rem; margin-bottom: 2rem; padding: .45rem .7rem; background: #fff; border-radius: .4rem; box-shadow: 0 15px 40px rgba(0,0,0,.2); }
+.hero-brand { width: 12.5rem; height: 8.5rem; margin-bottom: 1.5rem; }
 .hero-brand img { display: block; width: 100%; height: 100%; object-fit: contain; }
 .hero h1 { position: relative; z-index: 2; max-width: 850px; margin: 0; font-size: clamp(3.4rem, 7.5vw, 7.6rem); line-height: .96; letter-spacing: -.065em; }
 .hero h1 em { color: var(--red-bright); }
