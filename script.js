@@ -52,3 +52,78 @@ tabs.forEach((tab, index) => {
     tabs[next].focus();
   });
 });
+
+const publicationGrid = document.getElementById('publication-grid');
+const publicationsUpdated = document.getElementById('publications-updated');
+
+function element(tag, className, textContent) {
+  const item = document.createElement(tag);
+  if (className) item.className = className;
+  if (textContent !== undefined) item.textContent = textContent;
+  return item;
+}
+
+function renderPublications(data) {
+  publicationGrid.replaceChildren();
+  data.members.forEach(member => {
+    const card = element('article', 'publication-author');
+    const header = element('header', 'publication-author-header');
+    const photo = element('img');
+    photo.src = member.photo;
+    photo.alt = '';
+    photo.loading = 'lazy';
+    const identity = element('div');
+    identity.append(element('h3', '', member.name), element('p', '', member.group));
+    header.append(photo, identity);
+    card.append(header);
+
+    if (!member.papers.length) {
+      card.append(element('p', 'publication-empty', 'Publication data will appear after the first ADS sync.'));
+    } else {
+      const list = element('ol', 'paper-list');
+      member.papers.forEach((paper, index) => {
+        const item = element('li');
+        const rank = element('span', 'paper-rank', String(index + 1).padStart(2, '0'));
+        const details = element('div');
+        const link = element('a', '', paper.title);
+        link.href = paper.url;
+        link.target = '_blank';
+        link.rel = 'noopener';
+        const meta = element('p', 'paper-meta');
+        const citations = element('span', 'paper-citations', `${Number(paper.citation_count || 0).toLocaleString()} citations`);
+        meta.append(`${paper.year} · ${paper.publication || 'ADS'} · `, citations);
+        details.append(link, meta);
+        item.append(rank, details);
+        list.append(item);
+      });
+      card.append(list);
+    }
+    publicationGrid.append(card);
+  });
+
+  publicationsUpdated.textContent = data.generated_at
+    ? `Last synchronized ${new Date(data.generated_at).toLocaleDateString()}`
+    : 'Awaiting first ADS synchronization';
+}
+
+if (publicationGrid) {
+  fetch('data/publications.json')
+    .then(response => {
+      if (!response.ok) throw new Error('Publication data unavailable');
+      return response.json();
+    })
+    .then(data => {
+      if (data.members.length) return data;
+      return fetch('data/team-authors.json')
+        .then(response => response.json())
+        .then(members => ({
+          ...data,
+          members: members.map(({ name, group, photo }) => ({ name, group, photo, papers: [] }))
+        }));
+    })
+    .then(renderPublications)
+    .catch(() => {
+      publicationsUpdated.textContent = 'Publication data is temporarily unavailable';
+      publicationGrid.append(element('p', 'publication-empty', 'Please check back after the next ADS synchronization.'));
+    });
+}
