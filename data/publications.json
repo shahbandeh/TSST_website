@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T14:36:41.598438+00:00",
+  "generated_at": "2026-08-06T14:48:51.477169+00:00",
   "source": "NASA ADS",
   "members": [
     {
@@ -348,6 +348,37 @@
       ]
     },
     {
+      "name": "Estefania Padilla Gonzalez",
+      "group": "Postdoc",
+      "photo": "assets/people/estefania-padilla-gonzalez.png",
+      "papers": [
+        {
+          "bibcode": "2024ApJ...964..196P",
+          "title": "SN 2022joj: A Potential Double Detonation with a Thin Helium Shell",
+          "year": "2024",
+          "publication": "The Astrophysical Journal",
+          "citation_count": 21,
+          "url": "https://ui.adsabs.harvard.edu/abs/2024ApJ...964..196P/abstract"
+        },
+        {
+          "bibcode": "2023ApJ...953...25P",
+          "title": "Peculiar Spectral Evolution of the Type I Supernova 2019eix: A Possible Double Detonation from a Helium Shell on a Sub-Chandrasekhar-mass White Dwarf",
+          "year": "2023",
+          "publication": "The Astrophysical Journal",
+          "citation_count": 10,
+          "url": "https://ui.adsabs.harvard.edu/abs/2023ApJ...953...25P/abstract"
+        },
+        {
+          "bibcode": "2026ApJ..1001...95P",
+          "title": "Revisiting the Mass Step: Environmental Dependence of Type Ia Supernovae in Low-metallicity Host Galaxies",
+          "year": "2026",
+          "publication": "The Astrophysical Journal",
+          "citation_count": 5,
+          "url": "https://ui.adsabs.harvard.edu/abs/2026ApJ..1001...95P/abstract"
+        }
+      ]
+    },
+    {
       "name": "Rodrigo Angulo",
       "group": "Student",
       "photo": "assets/people/rodrigo-angulo.jpg",
@@ -443,6 +474,130 @@
       "group": "Student",
       "photo": "assets/people/koji-shukawa.jpg",
       "papers": []
+    },
+    {
+      "name": "Daniel J. D'Orazio",
+      "group": "Affiliate",
+      "photo": "assets/people/daniel-dorazio.png",
+      "papers": [
+        {
+          "bibcode": "2013MNRAS.436.2997D",
+          "title": "Accretion into the central cavity of a circumbinary disc",
+          "year": "2013",
+          "publication": "Monthly Notices of the Royal Astronomical Society",
+          "citation_count": 284,
+          "url": "https://ui.adsabs.harvard.edu/abs/2013MNRAS.436.2997D/abstract"
+        },
+        {
+          "bibcode": "2015Natur.525..351D",
+          "title": "Relativistic boost as the cause of periodicity in a massive black-hole binary candidate",
+          "year": "2015",
+          "publication": "Nature",
+          "citation_count": 186,
+          "url": "https://ui.adsabs.harvard.edu/abs/2015Natur.525..351D/abstract"
+        },
+        {
+          "bibcode": "2021ApJ...914L..21D",
+          "title": "Orbital Evolution of Equal-mass Eccentric Binaries due to a Gas Disk: Eccentric Inspirals and Circular Outspirals",
+          "year": "2021",
+          "publication": "The Astrophysical Journal",
+          "citation_count": 138,
+          "url": "https://ui.adsabs.harvard.edu/abs/2021ApJ...914L..21D/abstract"
+        }
+      ]
+    },
+    {
+      "name": "Xiaolong Li",
+      "group": "Affiliate",
+      "photo": "assets/people/xiaolong-li.png",
+      "papers": [
+        {
+          "bibcode": "2007WatRe..41.1022L",
+          "title": "Influence of loosely bound extracellular polymeric substances (EPS) on the flocculation, sedimentation and dewaterability of activated sludge",
+          "year": "2007",
+          "publication": "Water Research",
+          "citation_count": 1566,
+          "url": "https://ui.adsabs.harvard.edu/abs/2007WatRe..41.1022L/abstract"
+        },
+        {
+          "bibcode": "2003ITAES..39.1333R",
+          "title": "Survey of Maneuvering Target Tracking. Part I: Dynamic Models",
+          "year": "2003",
+          "publication": "IEEE Transactions on Aerospace and Electronic Systems",
+          "citation_count": 628,
+          "url": "https://ui.adsabs.harvard.edu/abs/2003ITAES..39.1333R/abstract"
+        },
+        {
+          "bibcode": "1992ITGRS..30..276L",
+          "title": "Geometric-optical bidirectional reflectance modeling of the discrete crown vegetation canopy: effect of crown shape and mutual shadowing",
+          "year": "1992",
+          "publication": "IEEE Transactions on Geoscience and Remote Sensing",
+          "citation_count": 571,
+          "url": "https://ui.adsabs.harvard.edu/abs/1992ITGRS..30..276L/abstract"
+        }
+      ]
+    },
+    {
+      "name": "Bob Williams",
+      "group": "Affiliate",
+      "photo": "assets/people/bob-williams.jpg",
+      "papers": [
+        {
+          "bibcode": "1996AJ....112.1335W",
+          "title": "The Hubble Deep Field: Observations, Data Reduction, and Galaxy Photometry",
+          "year": "1996",
+          "publication": "The Astronomical Journal",
+          "citation_count": 1111,
+          "url": "https://ui.adsabs.harvard.edu/abs/1996AJ....112.1335W/abstract"
+        },
+        {
+          "bibcode": "1990JPCS...51..679W",
+          "title": "The self-trapped exciton",
+          "year": "1990",
+          "publication": "Journal of Physics and Chemistry of Solids",
+          "citation_count": 351,
+          "url": "https://ui.adsabs.harvard.edu/abs/1990JPCS...51..679W/abstract"
+        },
+        {
+          "bibcode": "2013Sci...340.1068W",
+          "title": "Martian Fluvial Conglomerates at Gale Crater",
+          "year": "2013",
+          "publication": "Science",
+          "citation_count": 324,
+          "url": "https://ui.adsabs.harvard.edu/abs/2013Sci...340.1068W/abstract"
+        }
+      ]
+    },
+    {
+      "name": "Yossef Zenati",
+      "group": "Affiliate",
+      "photo": "assets/people/yossef-zenati.png",
+      "papers": [
+        {
+          "bibcode": "2019MNRAS.482.1135Z",
+          "title": "Formation and evolution of hybrid He-CO white dwarfs and their properties",
+          "year": "2019",
+          "publication": "Monthly Notices of the Royal Astronomical Society",
+          "citation_count": 81,
+          "url": "https://ui.adsabs.harvard.edu/abs/2019MNRAS.482.1135Z/abstract"
+        },
+        {
+          "bibcode": "2019MNRAS.486.1805Z",
+          "title": "Neutron star-white dwarf mergers: early evolution, physical properties, and outcomes",
+          "year": "2019",
+          "publication": "Monthly Notices of the Royal Astronomical Society",
+          "citation_count": 70,
+          "url": "https://ui.adsabs.harvard.edu/abs/2019MNRAS.486.1805Z/abstract"
+        },
+        {
+          "bibcode": "2020MNRAS.493.3956Z",
+          "title": "Faint rapid red transients from neutron star-CO white dwarf mergers",
+          "year": "2020",
+          "publication": "Monthly Notices of the Royal Astronomical Society",
+          "citation_count": 47,
+          "url": "https://ui.adsabs.harvard.edu/abs/2020MNRAS.493.3956Z/abstract"
+        }
+      ]
     }
   ]
 }
