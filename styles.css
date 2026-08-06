@@ -119,6 +119,7 @@ button, a { -webkit-tap-highlight-color: transparent; }
 .team-panel article { display: flex; gap: 1.2rem; min-height: 9rem; padding: 1.6rem; background: var(--paper); border: 1px solid var(--line); border-radius: .65rem; }
 .team-panel article > div { display: flex; flex-direction: column; }
 .avatar { flex: 0 0 4.2rem; width: 4.2rem; height: 4.2rem; display: block; object-fit: cover; object-position: center top; background: var(--red-dark); border: 2px solid #fff; border-radius: .45rem; box-shadow: 0 5px 15px rgba(56,20,24,.12); }
+.avatar-initials { display: grid; place-items: center; color: #fff; font: 500 .9rem 'DM Mono'; }
 .team-panel small { order: 2; color: var(--red); font: 500 .54rem 'DM Mono'; text-transform: uppercase; letter-spacing: .08em; }
 .team-panel h3 { order: 1; margin: .1rem 0 .25rem; font-size: 1.05rem; }
 .team-panel h3 a { text-decoration-color: rgba(197,43,50,.35); text-underline-offset: .2em; }
