@@ -53,6 +53,28 @@ tabs.forEach((tab, index) => {
   });
 });
 
+const surnameOverrides = new Map([
+  ['estefania padilla gonzalez', 'Padilla Gonzalez'],
+  ['sophie von coelln', 'von Coelln']
+]);
+const nameCollator = new Intl.Collator('en', { sensitivity: 'base' });
+
+function surnameFor(fullName) {
+  const normalized = fullName.trim().toLowerCase();
+  return surnameOverrides.get(normalized) || fullName.trim().split(/\s+/).at(-1);
+}
+
+function comparePeople(first, second) {
+  const surnameComparison = nameCollator.compare(surnameFor(first.name), surnameFor(second.name));
+  return surnameComparison || nameCollator.compare(first.name, second.name);
+}
+
+['panel-postdocs', 'panel-students', 'panel-affiliates', 'panel-alumni'].forEach(id => {
+  const panel = document.getElementById(id);
+  const cards = [...panel.children].map(card => ({ card, name: card.querySelector('h3').textContent.trim() }));
+  cards.sort(comparePeople).forEach(({ card }) => panel.append(card));
+});
+
 const publicationGrid = document.getElementById('publication-grid');
 const publicationsUpdated = document.getElementById('publications-updated');
 
@@ -65,7 +87,7 @@ function element(tag, className, textContent) {
 
 function renderPublications(data) {
   publicationGrid.replaceChildren();
-  data.members.forEach(member => {
+  [...data.members].sort(comparePeople).forEach(member => {
     const card = element('article', 'publication-author');
     const header = element('header', 'publication-author-header');
     const photo = element('img');
