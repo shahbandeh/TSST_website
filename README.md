@@ -1,6 +1,6 @@
-# TSST — Transient Science @ Space Telescopes
+# TSST — Transient Science @ Space Telescope
 
-An original, responsive static website for Transient Science @ Space Telescopes (TSST), including the STScI's Transients people directory.
+An original, responsive static website for Transient Science @ Space Telescope (TSST), including the STScI's Transients people directory.
 
 ## What is included
 

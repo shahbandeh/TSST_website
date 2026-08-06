@@ -9,6 +9,7 @@
   --wine: #280d12;
   --line: #ded5ce;
   --cyan: #8ddbd8;
+  --stsci-blue: #318fd1;
   --pad: clamp(1.4rem, 5vw, 5rem);
 }
 
@@ -48,6 +49,9 @@ button, a { -webkit-tap-highlight-color: transparent; }
 .hero-brand img { display: block; width: 100%; height: auto; }
 .hero h1 { position: relative; z-index: 2; max-width: 850px; margin: 0; font-size: clamp(3.4rem, 7.5vw, 7.6rem); line-height: .96; letter-spacing: -.065em; }
 .hero h1 em { color: var(--red-bright); }
+.hero h1 .stsci-link { color: var(--stsci-blue); text-decoration: none; text-decoration-thickness: .04em; text-underline-offset: .12em; transition: color .2s ease, text-shadow .2s ease; }
+.hero h1 .stsci-link:hover { color: #62b6ec; text-decoration: underline; text-shadow: 0 0 1.5rem rgba(49,143,209,.35); }
+.hero h1 .stsci-link:focus-visible { outline: .08em solid currentColor; outline-offset: .08em; border-radius: .04em; }
 .lede { max-width: 43rem; margin: 2rem 0; color: #cfbfc1; font-size: clamp(1rem, 1.5vw, 1.25rem); }
 .actions { display: flex; align-items: center; gap: 1.2rem; margin-top: 2.5rem; }
 .button { display: inline-flex; align-items: center; gap: 1.8rem; padding: 1rem 1.25rem; text-decoration: none; text-transform: uppercase; font-size: .66rem; font-weight: 800; letter-spacing: .12em; border-radius: .35rem; transition: transform .2s, background .2s; }
