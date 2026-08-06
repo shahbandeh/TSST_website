@@ -22,7 +22,7 @@ The site has no build step or runtime dependencies.
 
 ## ADS publication sync
 
-The Publications section is refreshed every Monday by `.github/workflows/sync-publications.yml`.
+The Publications section is refreshed every Monday by `.github/workflows/sync-publications.yml`. It selects each member's three most-cited first-author refereed papers.
 
 1. Sign in to [NASA ADS](https://ui.adsabs.harvard.edu/), open **Account → Customize Settings → API Token**, and generate or copy your token.
 2. In this GitHub repository, open **Settings → Secrets and variables → Actions**.
