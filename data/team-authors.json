@@ -21,5 +21,5 @@
   {"name":"Daniel J. D'Orazio","group":"Affiliate","photo":"assets/people/daniel-dorazio.png","query":"author:\"^D'Orazio, Daniel\" property:refereed"},
   {"name":"Xiaolong Li","group":"Postdoc","photo":"assets/people/xiaolong-li.png","query":"author:\"^Li, Xiaolong\" property:refereed"},
   {"name":"Bob Williams","group":"Affiliate","photo":"assets/people/bob-williams.jpg","query":"author:\"^Williams, Robert\" property:refereed"},
-  {"name":"Russell Ryan","group":"Affiliate","photo":"assets/people/russell-ryan.svg","query":"author:\"^Ryan, Russell\" property:refereed"}
+  {"name":"Russell Ryan","group":"Affiliate","photo":"assets/people/russell-ryan.webp","query":"author:\"^Ryan, Russell\" property:refereed"}
 ]
