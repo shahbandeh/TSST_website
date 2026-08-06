@@ -142,6 +142,9 @@ button, a { -webkit-tap-highlight-color: transparent; }
 .block-projects article { min-height: 12rem; padding: 1.35rem; background: var(--white); border: 1px solid var(--line); border-radius: .55rem; }
 .block-projects article p { margin: 0; color: var(--red); font: 500 .54rem 'DM Mono'; letter-spacing: .1em; text-transform: uppercase; }
 .block-projects h4 { margin: .7rem 0; font-size: 1rem; line-height: 1.25; }
+.block-projects h4 a { text-decoration-color: rgba(197,43,50,.35); text-underline-offset: .18em; }
+.block-projects h4 a:hover { color: var(--red); text-decoration-color: var(--red); }
+.block-projects h4 a span { display: inline; color: inherit; font-size: .75em; }
 .block-projects article span { display: block; color: var(--muted); font-size: .72rem; line-height: 1.55; }
 
 /* Team */
