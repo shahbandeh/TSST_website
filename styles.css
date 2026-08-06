@@ -123,7 +123,6 @@ button, a { -webkit-tap-highlight-color: transparent; }
 .beyond-art { height: 10rem; padding: .75rem; background: #150f11; border-bottom: 1px solid #493137; }
 .beyond-art img { display: block; width: 100%; height: 100%; object-fit: contain; }
 .beyond-copy { padding: 1.4rem 1.6rem 1.6rem; }
-.beyond-grid span { color: var(--red-bright); font: 500 .58rem 'DM Mono'; }
 .beyond-grid h3 { margin: 1.2rem 0 .7rem; font-size: 1.15rem; line-height: 1.25; }
 .beyond-grid p { margin: 0; color: #b6a5a8; font-size: .78rem; }
 .block-dialog { width: min(90vw,56rem); max-height: 86vh; padding: clamp(2rem,5vw,4rem); color: var(--ink); background: var(--paper); border: 0; border-top: .4rem solid var(--red); border-radius: .75rem; box-shadow: 0 2rem 6rem rgba(0,0,0,.5); }

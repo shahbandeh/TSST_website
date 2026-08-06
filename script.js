@@ -30,7 +30,7 @@ const sectionObserver = new IntersectionObserver(entries => {
 
 sections.forEach(section => sectionObserver.observe(section));
 
-document.querySelectorAll('.block-title').forEach(button => {
+document.querySelectorAll('[data-dialog]').forEach(button => {
   const dialog = document.getElementById(button.dataset.dialog);
   button.addEventListener('click', () => dialog.showModal());
   dialog.querySelector('.dialog-close').addEventListener('click', () => dialog.close());
@@ -98,7 +98,14 @@ function element(tag, className, textContent) {
 
 function renderPublications(data) {
   publicationGrid.replaceChildren();
-  [...data.members].sort(comparePeople).forEach(member => {
+  const publishedMembers = [...data.members].filter(member => member.papers?.length).sort(comparePeople);
+
+  if (!publishedMembers.length) {
+    publicationGrid.append(element('p', 'publication-empty', 'Publication data will appear after the next ADS synchronization.'));
+    return;
+  }
+
+  publishedMembers.forEach(member => {
     const card = element('article', 'publication-author');
     const header = element('header', 'publication-author-header');
     const photo = element('img');
@@ -110,11 +117,8 @@ function renderPublications(data) {
     header.append(photo, identity);
     card.append(header);
 
-    if (!member.papers.length) {
-      card.append(element('p', 'publication-empty', 'Publication data will appear after the first ADS sync.'));
-    } else {
-      const list = element('ol', 'paper-list');
-      member.papers.forEach((paper, index) => {
+    const list = element('ol', 'paper-list');
+    member.papers.forEach((paper, index) => {
         const item = element('li');
         const rank = element('span', 'paper-rank', String(index + 1).padStart(2, '0'));
         const details = element('div');
@@ -128,9 +132,8 @@ function renderPublications(data) {
         details.append(link, meta);
         item.append(rank, details);
         list.append(item);
-      });
-      card.append(list);
-    }
+    });
+    card.append(list);
     publicationGrid.append(card);
   });
 
