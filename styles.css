@@ -119,7 +119,10 @@ button, a { -webkit-tap-highlight-color: transparent; }
 .beyond-heading h2 em { color: var(--red-bright); }
 .beyond-heading > p:last-child { color: #aa999c; }
 .beyond-grid { display: grid; grid-template-columns: repeat(3,1fr); gap: 1rem; }
-.beyond-grid article { min-height: 15rem; padding: 1.6rem; background: #2a1c20; border: 1px solid #493137; border-radius: .65rem; }
+.beyond-grid article { overflow: hidden; min-height: 22rem; background: #2a1c20; border: 1px solid #493137; border-radius: .65rem; }
+.beyond-art { height: 10rem; padding: .75rem; background: #150f11; border-bottom: 1px solid #493137; }
+.beyond-art img { display: block; width: 100%; height: 100%; object-fit: contain; }
+.beyond-copy { padding: 1.4rem 1.6rem 1.6rem; }
 .beyond-grid span { color: var(--red-bright); font: 500 .58rem 'DM Mono'; }
 .beyond-grid h3 { margin: 1.2rem 0 .7rem; font-size: 1.15rem; line-height: 1.25; }
 .beyond-grid p { margin: 0; color: #b6a5a8; font-size: .78rem; }
