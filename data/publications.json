@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T14:23:24.894435+00:00",
+  "generated_at": "2026-08-06T14:36:41.598438+00:00",
   "source": "NASA ADS",
   "members": [
     {
@@ -154,6 +154,37 @@
           "publication": "The Astrophysical Journal",
           "citation_count": 30,
           "url": "https://ui.adsabs.harvard.edu/abs/2025ApJ...985..262S/abstract"
+        }
+      ]
+    },
+    {
+      "name": "Dave Coulter",
+      "group": "Block Lead",
+      "photo": "assets/people/dave-coulter.jpg",
+      "papers": [
+        {
+          "bibcode": "2017Sci...358.1556C",
+          "title": "Swope Supernova Survey 2017a (SSS17a), the optical counterpart to a gravitational wave source",
+          "year": "2017",
+          "publication": "Science",
+          "citation_count": 1113,
+          "url": "https://ui.adsabs.harvard.edu/abs/2017Sci...358.1556C/abstract"
+        },
+        {
+          "bibcode": "2023PASP..135f4501C",
+          "title": "YSE-PZ: A Transient Survey Management Platform that Empowers the Human-in-the-loop",
+          "year": "2023",
+          "publication": "Publications of the Astronomical Society of the Pacific",
+          "citation_count": 56,
+          "url": "https://ui.adsabs.harvard.edu/abs/2023PASP..135f4501C/abstract"
+        },
+        {
+          "bibcode": "2018BCons.221..118C",
+          "title": "Possible unintended effects of management at an invasion front: Reduced prevalence corresponds with high condition of invasive bigheaded carps",
+          "year": "2018",
+          "publication": "Biological Conservation",
+          "citation_count": 44,
+          "url": "https://ui.adsabs.harvard.edu/abs/2018BCons.221..118C/abstract"
         }
       ]
     },
