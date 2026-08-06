@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T14:10:05.552956+00:00",
+  "generated_at": "2026-08-06T14:11:43.246203+00:00",
   "source": "NASA ADS",
   "members": [
     {
@@ -8,28 +8,28 @@
       "photo": "assets/people/ori-fox.jpg",
       "papers": [
         {
-          "bibcode": "2017ApJ...848L..12A",
-          "title": "Multi-messenger Observations of a Binary Neutron Star Merger",
-          "year": "2017",
+          "bibcode": "2011ApJ...741....7F",
+          "title": "A Spitzer Survey for Dust in Type IIn Supernovae",
+          "year": "2011",
           "publication": "The Astrophysical Journal",
-          "citation_count": 4123,
-          "url": "https://ui.adsabs.harvard.edu/abs/2017ApJ...848L..12A/abstract"
+          "citation_count": 154,
+          "url": "https://ui.adsabs.harvard.edu/abs/2011ApJ...741....7F/abstract"
         },
         {
-          "bibcode": "2017Natur.551...71T",
-          "title": "The X-ray counterpart to the gravitational-wave event GW170817",
-          "year": "2017",
-          "publication": "Nature",
-          "citation_count": 810,
-          "url": "https://ui.adsabs.harvard.edu/abs/2017Natur.551...71T/abstract"
+          "bibcode": "2010ApJ...725.1768F",
+          "title": "Disentangling the Origin and Heating Mechanism of Supernova Dust: Late-time Spitzer Spectroscopy of the Type IIn SN 2005ip",
+          "year": "2010",
+          "publication": "The Astrophysical Journal",
+          "citation_count": 114,
+          "url": "https://ui.adsabs.harvard.edu/abs/2010ApJ...725.1768F/abstract"
         },
         {
-          "bibcode": "2017Sci...358.1559K",
-          "title": "Illuminating gravitational waves: A concordant picture of photons from a neutron star merger",
-          "year": "2017",
-          "publication": "Science",
-          "citation_count": 756,
-          "url": "https://ui.adsabs.harvard.edu/abs/2017Sci...358.1559K/abstract"
+          "bibcode": "2014ApJ...790...17F",
+          "title": "Uncovering the Putative B-star Binary Companion of the SN 1993J Progenitor",
+          "year": "2014",
+          "publication": "The Astrophysical Journal",
+          "citation_count": 103,
+          "url": "https://ui.adsabs.harvard.edu/abs/2014ApJ...790...17F/abstract"
         }
       ]
     },
@@ -39,28 +39,28 @@
       "photo": "assets/people/armin-rest.jpg",
       "papers": [
         {
-          "bibcode": "2017ApJ...848L..12A",
-          "title": "Multi-messenger Observations of a Binary Neutron Star Merger",
-          "year": "2017",
+          "bibcode": "2014ApJ...795...44R",
+          "title": "Cosmological Constraints from Measurements of Type Ia Supernovae Discovered during the First 1.5 yr of the Pan-STARRS1 Survey",
+          "year": "2014",
           "publication": "The Astrophysical Journal",
-          "citation_count": 4123,
-          "url": "https://ui.adsabs.harvard.edu/abs/2017ApJ...848L..12A/abstract"
+          "citation_count": 349,
+          "url": "https://ui.adsabs.harvard.edu/abs/2014ApJ...795...44R/abstract"
         },
         {
-          "bibcode": "2018ApJ...859..101S",
-          "title": "The Complete Light-curve Sample of Spectroscopically Confirmed SNe Ia from Pan-STARRS1 and Cosmological Constraints from the Combined Pantheon Sample",
-          "year": "2018",
-          "publication": "The Astrophysical Journal",
-          "citation_count": 2669,
-          "url": "https://ui.adsabs.harvard.edu/abs/2018ApJ...859..101S/abstract"
+          "bibcode": "2001AJ....121.2431R",
+          "title": "WFPC2 Images of the Central Regions of Early-Type Galaxies. I. The Data",
+          "year": "2001",
+          "publication": "The Astronomical Journal",
+          "citation_count": 212,
+          "url": "https://ui.adsabs.harvard.edu/abs/2001AJ....121.2431R/abstract"
         },
         {
-          "bibcode": "2022ApJ...938..110B",
-          "title": "The Pantheon+ Analysis: Cosmological Constraints",
-          "year": "2022",
+          "bibcode": "2005ApJ...634.1103R",
+          "title": "Testing LMC Microlensing Scenarios: The Discrimination Power of the SuperMACHO Microlensing Survey",
+          "year": "2005",
           "publication": "The Astrophysical Journal",
-          "citation_count": 1498,
-          "url": "https://ui.adsabs.harvard.edu/abs/2022ApJ...938..110B/abstract"
+          "citation_count": 204,
+          "url": "https://ui.adsabs.harvard.edu/abs/2005ApJ...634.1103R/abstract"
         }
       ]
     },
@@ -70,28 +70,28 @@
       "photo": "assets/people/louis-gregory-strolger.jpg",
       "papers": [
         {
-          "bibcode": "2004ApJ...607..665R",
-          "title": "Type Ia Supernova Discoveries at z &gt; 1 from the Hubble Space Telescope: Evidence for Past Deceleration and Constraints on Dark Energy Evolution",
+          "bibcode": "2004ApJ...613..200S",
+          "title": "The Hubble Higher z Supernova Search: Supernovae to z ~ 1.6 and Constraints on Type Ia Progenitor Models",
           "year": "2004",
           "publication": "The Astrophysical Journal",
-          "citation_count": 4026,
-          "url": "https://ui.adsabs.harvard.edu/abs/2004ApJ...607..665R/abstract"
+          "citation_count": 290,
+          "url": "https://ui.adsabs.harvard.edu/abs/2004ApJ...613..200S/abstract"
         },
         {
-          "bibcode": "2011ApJS..197...35G",
-          "title": "CANDELS: The Cosmic Assembly Near-infrared Deep Extragalactic Legacy Survey",
-          "year": "2011",
-          "publication": "The Astrophysical Journal Supplement Series",
-          "citation_count": 2138,
-          "url": "https://ui.adsabs.harvard.edu/abs/2011ApJS..197...35G/abstract"
+          "bibcode": "2015ApJ...813...93S",
+          "title": "The Rate of Core Collapse Supernovae to Redshift 2.5 from the CANDELS and CLASH Supernova Surveys",
+          "year": "2015",
+          "publication": "The Astrophysical Journal",
+          "citation_count": 134,
+          "url": "https://ui.adsabs.harvard.edu/abs/2015ApJ...813...93S/abstract"
         },
         {
-          "bibcode": "2011ApJS..197...36K",
-          "title": "CANDELS: The Cosmic Assembly Near-infrared Deep Extragalactic Legacy Survey—The Hubble Space Telescope Observations, Imaging Data Products, and Mosaics",
-          "year": "2011",
-          "publication": "The Astrophysical Journal Supplement Series",
-          "citation_count": 2129,
-          "url": "https://ui.adsabs.harvard.edu/abs/2011ApJS..197...36K/abstract"
+          "bibcode": "2002AJ....124.2905S",
+          "title": "The Type Ia Supernova 1999aw: A Probable 1999aa-like Event in a Low-Luminosity Host Galaxy",
+          "year": "2002",
+          "publication": "The Astronomical Journal",
+          "citation_count": 79,
+          "url": "https://ui.adsabs.harvard.edu/abs/2002AJ....124.2905S/abstract"
         }
       ]
     },
@@ -99,130 +99,6 @@
       "name": "Justin Pierel",
       "group": "PI",
       "photo": "assets/people/justin-pierel.jpg",
-      "papers": [
-        {
-          "bibcode": "2023ApJ...946L..13F",
-          "title": "CEERS Key Paper. I. An Early Look into the First 500 Myr of Galaxy Formation with JWST",
-          "year": "2023",
-          "publication": "The Astrophysical Journal",
-          "citation_count": 669,
-          "url": "https://ui.adsabs.harvard.edu/abs/2023ApJ...946L..13F/abstract"
-        },
-        {
-          "bibcode": "2023AJ....165...13W",
-          "title": "JWST PEARLS. Prime Extragalactic Areas for Reionization and Lensing Science: Project Overview and First Results",
-          "year": "2023",
-          "publication": "The Astronomical Journal",
-          "citation_count": 191,
-          "url": "https://ui.adsabs.harvard.edu/abs/2023AJ....165...13W/abstract"
-        },
-        {
-          "bibcode": "2021ApJ...923..265K",
-          "title": "SALT3: An Improved Type Ia Supernova Model for Measuring Cosmic Distances",
-          "year": "2021",
-          "publication": "The Astrophysical Journal",
-          "citation_count": 171,
-          "url": "https://ui.adsabs.harvard.edu/abs/2021ApJ...923..265K/abstract"
-        }
-      ]
-    },
-    {
-      "name": "Melissa Shahbandeh",
-      "group": "PI",
-      "photo": "assets/people/melissa-shahbandeh.jpg",
-      "papers": [
-        {
-          "bibcode": "2017ApJ...845L..11H",
-          "title": "Early Blue Excess from the Type Ia Supernova 2017cbv and Implications for Its Progenitor",
-          "year": "2017",
-          "publication": "The Astrophysical Journal",
-          "citation_count": 154,
-          "url": "https://ui.adsabs.harvard.edu/abs/2017ApJ...845L..11H/abstract"
-        },
-        {
-          "bibcode": "2023ApJ...952L..30J",
-          "title": "A Luminous Red Supergiant and Dusty Long-period Variable Progenitor for SN 2023ixf",
-          "year": "2023",
-          "publication": "The Astrophysical Journal",
-          "citation_count": 100,
-          "url": "https://ui.adsabs.harvard.edu/abs/2023ApJ...952L..30J/abstract"
-        },
-        {
-          "bibcode": "2019PASP..131a4002H",
-          "title": "Carnegie Supernova Project-II: The Near-infrared Spectroscopy Program",
-          "year": "2019",
-          "publication": "Publications of the Astronomical Society of the Pacific",
-          "citation_count": 88,
-          "url": "https://ui.adsabs.harvard.edu/abs/2019PASP..131a4002H/abstract"
-        }
-      ]
-    },
-    {
-      "name": "Mike Engesser",
-      "group": "PI",
-      "photo": "assets/people/mike-engesser.jpg",
-      "papers": [
-        {
-          "bibcode": "2023PASP..135f8001G",
-          "title": "The James Webb Space Telescope Mission",
-          "year": "2023",
-          "publication": "Publications of the Astronomical Society of the Pacific",
-          "citation_count": 589,
-          "url": "https://ui.adsabs.harvard.edu/abs/2023PASP..135f8001G/abstract"
-        },
-        {
-          "bibcode": "2023PASP..135d8001R",
-          "title": "The Science Performance of JWST as Characterized in Commissioning",
-          "year": "2023",
-          "publication": "Publications of the Astronomical Society of the Pacific",
-          "citation_count": 582,
-          "url": "https://ui.adsabs.harvard.edu/abs/2023PASP..135d8001R/abstract"
-        },
-        {
-          "bibcode": "2023PASP..135d8003W",
-          "title": "The Mid-infrared Instrument for JWST and Its In-flight Performance",
-          "year": "2023",
-          "publication": "Publications of the Astronomical Society of the Pacific",
-          "citation_count": 353,
-          "url": "https://ui.adsabs.harvard.edu/abs/2023PASP..135d8003W/abstract"
-        }
-      ]
-    },
-    {
-      "name": "James DerKacy",
-      "group": "Postdoc",
-      "photo": "assets/people/james-derkacy.jpg",
-      "papers": [
-        {
-          "bibcode": "2019ApJ...870L...1D",
-          "title": "K2 Observations of SN 2018oh Reveal a Two-component Rising Light Curve for a Type Ia Supernova",
-          "year": "2019",
-          "publication": "The Astrophysical Journal",
-          "citation_count": 116,
-          "url": "https://ui.adsabs.harvard.edu/abs/2019ApJ...870L...1D/abstract"
-        },
-        {
-          "bibcode": "2019ApJ...870...13S",
-          "title": "Seeing Double: ASASSN-18bt Exhibits a Two-component Rise in the Early-time K2 Light Curve",
-          "year": "2019",
-          "publication": "The Astrophysical Journal",
-          "citation_count": 90,
-          "url": "https://ui.adsabs.harvard.edu/abs/2019ApJ...870...13S/abstract"
-        },
-        {
-          "bibcode": "2019ApJ...870...12L",
-          "title": "Photometric and Spectroscopic Properties of Type Ia Supernova 2018oh with Early Excess Emission from the Kepler 2 Observations",
-          "year": "2019",
-          "publication": "The Astrophysical Journal",
-          "citation_count": 85,
-          "url": "https://ui.adsabs.harvard.edu/abs/2019ApJ...870...12L/abstract"
-        }
-      ]
-    },
-    {
-      "name": "Conor Larison",
-      "group": "Postdoc",
-      "photo": "assets/people/conor-larison.jpg",
       "papers": [
         {
           "bibcode": "2024ApJ...967L..37P",
@@ -233,20 +109,111 @@
           "url": "https://ui.adsabs.harvard.edu/abs/2024ApJ...967L..37P/abstract"
         },
         {
-          "bibcode": "2024ApJ...967...50P",
-          "title": "JWST Photometric Time-delay and Magnification Measurements for the Triply Imaged Type Ia \"SN H0pe\" at z = 1.78",
-          "year": "2024",
-          "publication": "The Astrophysical Journal",
-          "citation_count": 48,
-          "url": "https://ui.adsabs.harvard.edu/abs/2024ApJ...967...50P/abstract"
+          "bibcode": "2018PASP..130k4504P",
+          "title": "Extending Supernova Spectral Templates for Next-generation Space Telescope Observations",
+          "year": "2018",
+          "publication": "Publications of the Astronomical Society of the Pacific",
+          "citation_count": 61,
+          "url": "https://ui.adsabs.harvard.edu/abs/2018PASP..130k4504P/abstract"
         },
         {
-          "bibcode": "2023ApJ...944L...3K",
-          "title": "A JWST Near- and Mid-infrared Nebular Spectrum of the Type Ia Supernova 2021aefx",
+          "bibcode": "2019ApJ...876..107P",
+          "title": "Turning Gravitationally Lensed Supernovae into Cosmological Probes",
+          "year": "2019",
+          "publication": "The Astrophysical Journal",
+          "citation_count": 58,
+          "url": "https://ui.adsabs.harvard.edu/abs/2019ApJ...876..107P/abstract"
+        }
+      ]
+    },
+    {
+      "name": "Melissa Shahbandeh",
+      "group": "PI",
+      "photo": "assets/people/melissa-shahbandeh.jpg",
+      "papers": [
+        {
+          "bibcode": "2023MNRAS.523.6048S",
+          "title": "JWST observations of dust reservoirs in type IIP supernovae 2004et and 2017eaw",
+          "year": "2023",
+          "publication": "Monthly Notices of the Royal Astronomical Society",
+          "citation_count": 62,
+          "url": "https://ui.adsabs.harvard.edu/abs/2023MNRAS.523.6048S/abstract"
+        },
+        {
+          "bibcode": "2022ApJ...925..175S",
+          "title": "Carnegie Supernova Project-II: Near-infrared Spectroscopy of Stripped-envelope Core-collapse Supernovae",
+          "year": "2022",
+          "publication": "The Astrophysical Journal",
+          "citation_count": 60,
+          "url": "https://ui.adsabs.harvard.edu/abs/2022ApJ...925..175S/abstract"
+        },
+        {
+          "bibcode": "2025ApJ...985..262S",
+          "title": "JWST/MIRI Observations of Newly Formed Dust in the Cold, Dense Shell of the Type IIn SN 2005ip",
+          "year": "2025",
+          "publication": "The Astrophysical Journal",
+          "citation_count": 30,
+          "url": "https://ui.adsabs.harvard.edu/abs/2025ApJ...985..262S/abstract"
+        }
+      ]
+    },
+    {
+      "name": "Mike Engesser",
+      "group": "PI",
+      "photo": "assets/people/mike-engesser.jpg",
+      "papers": []
+    },
+    {
+      "name": "James DerKacy",
+      "group": "Postdoc",
+      "photo": "assets/people/james-derkacy.jpg",
+      "papers": [
+        {
+          "bibcode": "2023ApJ...945L...2D",
+          "title": "JWST Low-resolution MIRI Spectral Observations of SN 2021aefx: High-density Burning in a Type Ia Supernova",
           "year": "2023",
           "publication": "The Astrophysical Journal",
-          "citation_count": 43,
-          "url": "https://ui.adsabs.harvard.edu/abs/2023ApJ...944L...3K/abstract"
+          "citation_count": 37,
+          "url": "https://ui.adsabs.harvard.edu/abs/2023ApJ...945L...2D/abstract"
+        },
+        {
+          "bibcode": "2024ApJ...961..187D",
+          "title": "JWST MIRI/Medium Resolution Spectrograph (MRS) Observations and Spectral Models of the Underluminous Type Ia Supernova 2022xkq",
+          "year": "2024",
+          "publication": "The Astrophysical Journal",
+          "citation_count": 23,
+          "url": "https://ui.adsabs.harvard.edu/abs/2024ApJ...961..187D/abstract"
+        },
+        {
+          "bibcode": "2026ApJ...997..179D",
+          "title": "JWST Observations of SN 2023ixf. I. Completing the Early Multiwavelength Picture with Plateau-phase Spectroscopy",
+          "year": "2026",
+          "publication": "The Astrophysical Journal",
+          "citation_count": 17,
+          "url": "https://ui.adsabs.harvard.edu/abs/2026ApJ...997..179D/abstract"
+        }
+      ]
+    },
+    {
+      "name": "Conor Larison",
+      "group": "Postdoc",
+      "photo": "assets/people/conor-larison.jpg",
+      "papers": [
+        {
+          "bibcode": "2024ApJ...961..185L",
+          "title": "Environmental Dependence of Type Ia Supernovae in Low-redshift Galaxy Clusters",
+          "year": "2024",
+          "publication": "The Astrophysical Journal",
+          "citation_count": 25,
+          "url": "https://ui.adsabs.harvard.edu/abs/2024ApJ...961..185L/abstract"
+        },
+        {
+          "bibcode": "2025ApJ...980..172L",
+          "title": "LensWatch. II. Improved Photometry and Time-delay Constraints on the Strongly Lensed Type Ia Supernova 2022qmx (\"SN Zwicky\") with Hubble Space Telescope Template Observations",
+          "year": "2025",
+          "publication": "The Astrophysical Journal",
+          "citation_count": 9,
+          "url": "https://ui.adsabs.harvard.edu/abs/2025ApJ...980..172L/abstract"
         }
       ]
     },
@@ -256,28 +223,28 @@
       "photo": "assets/people/massimo-griggio.jpg",
       "papers": [
         {
-          "bibcode": "2022MNRAS.517..484N",
-          "title": "Photometry and astrometry with JWST - I. NIRCam point spread functions and the first JWST colour-magnitude diagrams of a globular cluster",
-          "year": "2022",
-          "publication": "Monthly Notices of the Royal Astronomical Society",
-          "citation_count": 65,
-          "url": "https://ui.adsabs.harvard.edu/abs/2022MNRAS.517..484N/abstract"
-        },
-        {
-          "bibcode": "2024A&A...689A.148S",
-          "title": "The VISTA Variables in the Vía Láctea extended (VVVX) ESO public survey: Completion of the observations and legacy",
-          "year": "2024",
-          "publication": "Astronomy and Astrophysics",
-          "citation_count": 40,
-          "url": "https://ui.adsabs.harvard.edu/abs/2024A&A...689A.148S/abstract"
-        },
-        {
           "bibcode": "2009JEBio..22..782G",
           "title": "Moult speed affects structural feather ornaments in the blue tit",
           "year": "2009",
           "publication": "Journal of Evolutionary Biology",
           "citation_count": 39,
           "url": "https://ui.adsabs.harvard.edu/abs/2009JEBio..22..782G/abstract"
+        },
+        {
+          "bibcode": "2009JEBio..22.2077G",
+          "title": "Nestlings' carotenoid feather ornament affects parental allocation strategy and reduces maternal survival",
+          "year": "2009",
+          "publication": "Journal of Evolutionary Biology",
+          "citation_count": 21,
+          "url": "https://ui.adsabs.harvard.edu/abs/2009JEBio..22.2077G/abstract"
+        },
+        {
+          "bibcode": "2023AN....34430006G",
+          "title": "Photometry and astrometry with JWST−II: NIRCam distortion correction",
+          "year": "2023",
+          "publication": "Astronomische Nachrichten",
+          "citation_count": 19,
+          "url": "https://ui.adsabs.harvard.edu/abs/2023AN....34430006G/abstract"
         }
       ]
     },
@@ -285,32 +252,7 @@
       "name": "Zac Lane",
       "group": "Postdoc",
       "photo": "assets/people/zac-lane.jpg",
-      "papers": [
-        {
-          "bibcode": "2025ApJ...981L...9P",
-          "title": "Testing for Intrinsic Type Ia Supernova Luminosity Evolution at z &gt; 2 with JWST",
-          "year": "2025",
-          "publication": "The Astrophysical Journal",
-          "citation_count": 15,
-          "url": "https://ui.adsabs.harvard.edu/abs/2025ApJ...981L...9P/abstract"
-        },
-        {
-          "bibcode": "2020SpWea..1802364A",
-          "title": "The SIRE2 Toolkit",
-          "year": "2020",
-          "publication": "Space Weather",
-          "citation_count": 4,
-          "url": "https://ui.adsabs.harvard.edu/abs/2020SpWea..1802364A/abstract"
-        },
-        {
-          "bibcode": "2026ApJ..1002L...3S",
-          "title": "SN 2025ogs: A Spectroscopically Normal Type Ia Supernova at z = 2 as a Benchmark for Redshift Evolution",
-          "year": "2026",
-          "publication": "The Astrophysical Journal",
-          "citation_count": 3,
-          "url": "https://ui.adsabs.harvard.edu/abs/2026ApJ..1002L...3S/abstract"
-        }
-      ]
+      "papers": []
     },
     {
       "name": "Thomas Moore",
@@ -318,28 +260,28 @@
       "photo": "assets/people/thomas-moore.jpg",
       "papers": [
         {
-          "bibcode": "2008JInst...3S8003A",
-          "title": "The ATLAS Experiment at the CERN Large Hadron Collider",
-          "year": "2008",
-          "publication": "Journal of Instrumentation",
-          "citation_count": 1861,
-          "url": "https://ui.adsabs.harvard.edu/abs/2008JInst...3S8003A/abstract"
+          "bibcode": "1998ClCh...40..229M",
+          "title": "Uncertainty in Predicting the Effect of Climatic Change on the Carbon Cycling of Canadian Peatlands",
+          "year": "1998",
+          "publication": "Climatic Change",
+          "citation_count": 266,
+          "url": "https://ui.adsabs.harvard.edu/abs/1998ClCh...40..229M/abstract"
         },
         {
-          "bibcode": "2002NIMPA.479....1A",
-          "title": "The B AB AR detector",
-          "year": "2002",
-          "publication": "Nuclear Instruments and Methods in Physics Research A",
-          "citation_count": 1553,
-          "url": "https://ui.adsabs.harvard.edu/abs/2002NIMPA.479....1A/abstract"
+          "bibcode": "1993EuJSS..44..651M",
+          "title": "The influence of temperature and water table position on carbon dioxide and methane emissions from laboratory columns of peatland soils",
+          "year": "1993",
+          "publication": "European Journal of Soil Science",
+          "citation_count": 259,
+          "url": "https://ui.adsabs.harvard.edu/abs/1993EuJSS..44..651M/abstract"
         },
         {
-          "bibcode": "2016SSRv..199....5B",
-          "title": "Magnetospheric Multiscale Overview and Science Objectives",
-          "year": "2016",
-          "publication": "Space Science Reviews",
-          "citation_count": 1445,
-          "url": "https://ui.adsabs.harvard.edu/abs/2016SSRv..199....5B/abstract"
+          "bibcode": "1989CaJSS..69...33M",
+          "title": "The Influence of Water Table Levels on Methane and Carbon Dioxide Emissions from Peatland Soils",
+          "year": "1989",
+          "publication": "Canadian Journal of Soil Science",
+          "citation_count": 259,
+          "url": "https://ui.adsabs.harvard.edu/abs/1989CaJSS..69...33M/abstract"
         }
       ]
     },
@@ -349,28 +291,28 @@
       "photo": "assets/people/matt-siebert.jpg",
       "papers": [
         {
-          "bibcode": "2017ApJ...848L..12A",
-          "title": "Multi-messenger Observations of a Binary Neutron Star Merger",
-          "year": "2017",
+          "bibcode": "2020ApJ...900L..27S",
+          "title": "Strong Calcium Emission Indicates that the Ultraviolet-flashing SN Ia 2019yvq Was the Result of a Sub-Chandrasekar-mass Double-detonation Explosion",
+          "year": "2020",
           "publication": "The Astrophysical Journal",
-          "citation_count": 4123,
-          "url": "https://ui.adsabs.harvard.edu/abs/2017ApJ...848L..12A/abstract"
+          "citation_count": 50,
+          "url": "https://ui.adsabs.harvard.edu/abs/2020ApJ...900L..27S/abstract"
         },
         {
-          "bibcode": "2022ApJ...938..110B",
-          "title": "The Pantheon+ Analysis: Cosmological Constraints",
-          "year": "2022",
-          "publication": "The Astrophysical Journal",
-          "citation_count": 1498,
-          "url": "https://ui.adsabs.harvard.edu/abs/2022ApJ...938..110B/abstract"
+          "bibcode": "2019MNRAS.486.5785S",
+          "title": "Investigating the diversity of Type Ia supernova spectra with the open-source relational data base KAEPORA",
+          "year": "2019",
+          "publication": "Monthly Notices of the Royal Astronomical Society",
+          "citation_count": 47,
+          "url": "https://ui.adsabs.harvard.edu/abs/2019MNRAS.486.5785S/abstract"
         },
         {
-          "bibcode": "2017Natur.551...85A",
-          "title": "A gravitational-wave standard siren measurement of the Hubble constant",
-          "year": "2017",
-          "publication": "Nature",
-          "citation_count": 1308,
-          "url": "https://ui.adsabs.harvard.edu/abs/2017Natur.551...85A/abstract"
+          "bibcode": "1964P&SS...12..137S",
+          "title": "Geomagnetic pulsations with latitude-dependent periods and their relation to the structure of the magnetosphere",
+          "year": "1964",
+          "publication": "Planetary and Space Science",
+          "citation_count": 44,
+          "url": "https://ui.adsabs.harvard.edu/abs/1964P&SS...12..137S/abstract"
         }
       ]
     },
@@ -380,14 +322,6 @@
       "photo": "assets/people/rodrigo-angulo.jpg",
       "papers": [
         {
-          "bibcode": "2025A&A...697A...1E",
-          "title": "Euclid: I. Overview of the Euclid mission",
-          "year": "2025",
-          "publication": "Astronomy and Astrophysics",
-          "citation_count": 903,
-          "url": "https://ui.adsabs.harvard.edu/abs/2025A&A...697A...1E/abstract"
-        },
-        {
           "bibcode": "2012MNRAS.426.2046A",
           "title": "Scaling relations for galaxy clusters in the Millennium-XXL simulation",
           "year": "2012",
@@ -396,12 +330,20 @@
           "url": "https://ui.adsabs.harvard.edu/abs/2012MNRAS.426.2046A/abstract"
         },
         {
-          "bibcode": "2019A&A...622A.176C",
-          "title": "J-PLUS: The Javalambre Photometric Local Universe Survey",
-          "year": "2019",
-          "publication": "Astronomy and Astrophysics",
-          "citation_count": 270,
-          "url": "https://ui.adsabs.harvard.edu/abs/2019A&A...622A.176C/abstract"
+          "bibcode": "2010MNRAS.405..143A",
+          "title": "One simulation to fit them all - changing the background parameters of a cosmological N-body simulation",
+          "year": "2010",
+          "publication": "Monthly Notices of the Royal Astronomical Society",
+          "citation_count": 239,
+          "url": "https://ui.adsabs.harvard.edu/abs/2010MNRAS.405..143A/abstract"
+        },
+        {
+          "bibcode": "2008MNRAS.383..755A",
+          "title": "The detectability of baryonic acoustic oscillations in future galaxy surveys",
+          "year": "2008",
+          "publication": "Monthly Notices of the Royal Astronomical Society",
+          "citation_count": 190,
+          "url": "https://ui.adsabs.harvard.edu/abs/2008MNRAS.383..755A/abstract"
         }
       ]
     },
@@ -409,46 +351,13 @@
       "name": "Kyle Dalrymple",
       "group": "Student",
       "photo": "assets/people/kyle-dalrymple.jpg",
-      "papers": [
-        {
-          "bibcode": "2023ApJ...943L..15W",
-          "title": "Revealing the Progenitor of SN 2021zby through Analysis of the TESS Shock-cooling Light Curve",
-          "year": "2023",
-          "publication": "The Astrophysical Journal",
-          "citation_count": 10,
-          "url": "https://ui.adsabs.harvard.edu/abs/2023ApJ...943L..15W/abstract"
-        },
-        {
-          "bibcode": "2025ApJ...980..172L",
-          "title": "LensWatch. II. Improved Photometry and Time-delay Constraints on the Strongly Lensed Type Ia Supernova 2022qmx (\"SN Zwicky\") with Hubble Space Telescope Template Observations",
-          "year": "2025",
-          "publication": "The Astrophysical Journal",
-          "citation_count": 9,
-          "url": "https://ui.adsabs.harvard.edu/abs/2025ApJ...980..172L/abstract"
-        },
-        {
-          "bibcode": "2012SciPP..39..761L",
-          "title": "Perceived familiarity or factual knowledge? Comparing operationalizations of scientific understanding",
-          "year": "2012",
-          "publication": "Science and Public Policy",
-          "citation_count": 8,
-          "url": "https://ui.adsabs.harvard.edu/abs/2012SciPP..39..761L/abstract"
-        }
-      ]
+      "papers": []
     },
     {
       "name": "Muryel Guolo",
       "group": "Student",
       "photo": "assets/people/muryel-guolo.jpg",
       "papers": [
-        {
-          "bibcode": "2023ApJ...954L..42J",
-          "title": "SN 2023ixf in Messier 101: Photo-ionization of Dense, Close-in Circumstellar Material in a Nearby Type II Supernova",
-          "year": "2023",
-          "publication": "The Astrophysical Journal",
-          "citation_count": 152,
-          "url": "https://ui.adsabs.harvard.edu/abs/2023ApJ...954L..42J/abstract"
-        },
         {
           "bibcode": "2024ApJ...966..160G",
           "title": "A Systematic Analysis of the X-Ray Emission in Optically Selected Tidal Disruption Events: Observational Evidence for the Unification of the Optically and X-Ray-selected Populations",
@@ -458,12 +367,20 @@
           "url": "https://ui.adsabs.harvard.edu/abs/2024ApJ...966..160G/abstract"
         },
         {
-          "bibcode": "2024Natur.634..804N",
-          "title": "Quasi-periodic X-ray eruptions years after a nearby tidal disruption event",
+          "bibcode": "2024NatAs...8..347G",
+          "title": "X-ray eruptions every 22 days from the nucleus of a nearby galaxy",
           "year": "2024",
-          "publication": "Nature",
-          "citation_count": 111,
-          "url": "https://ui.adsabs.harvard.edu/abs/2024Natur.634..804N/abstract"
+          "publication": "Nature Astronomy",
+          "citation_count": 83,
+          "url": "https://ui.adsabs.harvard.edu/abs/2024NatAs...8..347G/abstract"
+        },
+        {
+          "bibcode": "2021MNRAS.508..144G",
+          "title": "The Eddington ratio-dependent 'changing look' events in NGC 2992",
+          "year": "2021",
+          "publication": "Monthly Notices of the Royal Astronomical Society",
+          "citation_count": 38,
+          "url": "https://ui.adsabs.harvard.edu/abs/2021MNRAS.508..144G/abstract"
         }
       ]
     },
@@ -473,28 +390,20 @@
       "photo": "assets/people/mitchell-karmen.png",
       "papers": [
         {
-          "bibcode": "2025ApJ...980L..29A",
-          "title": "Strong Rest-UV Emission Lines in a \"Little Red Dot\" Active Galactic Nucleus at z = 7: Early Supermassive Black Hole Growth alongside Compact Massive Star Formation?",
+          "bibcode": "2025ApJ...990..149K",
+          "title": "JWST Discovery of a High-redshift Tidal Disruption Event Candidate in COSMOS-Web",
           "year": "2025",
           "publication": "The Astrophysical Journal",
-          "citation_count": 61,
-          "url": "https://ui.adsabs.harvard.edu/abs/2025ApJ...980L..29A/abstract"
+          "citation_count": 14,
+          "url": "https://ui.adsabs.harvard.edu/abs/2025ApJ...990..149K/abstract"
         },
         {
-          "bibcode": "2024MNRAS.535..471G",
-          "title": "The Type I superluminous supernova catalogue I: light-curve properties, models, and catalogue description",
-          "year": "2024",
-          "publication": "Monthly Notices of the Royal Astronomical Society",
-          "citation_count": 47,
-          "url": "https://ui.adsabs.harvard.edu/abs/2024MNRAS.535..471G/abstract"
-        },
-        {
-          "bibcode": "2022ApJ...935....5S",
-          "title": "A Probabilistic Autoencoder for Type Ia Supernova Spectral Time Series",
-          "year": "2022",
+          "bibcode": "2026ApJ..1006...20K",
+          "title": "Tidal Disruption Event Rates across Cosmic Time: Forecasts for LSST, Roman, and JWST and Their Constraints on the Supermassive Black Hole Mass Function",
+          "year": "2026",
           "publication": "The Astrophysical Journal",
-          "citation_count": 29,
-          "url": "https://ui.adsabs.harvard.edu/abs/2022ApJ...935....5S/abstract"
+          "citation_count": 3,
+          "url": "https://ui.adsabs.harvard.edu/abs/2026ApJ..1006...20K/abstract"
         }
       ]
     },
@@ -502,32 +411,7 @@
       "name": "Koji Shukawa",
       "group": "Student",
       "photo": "assets/people/koji-shukawa.jpg",
-      "papers": [
-        {
-          "bibcode": "2025ApJ...986..111L",
-          "title": "A Measurement of the Largest-scale CMB E-mode Polarization with CLASS",
-          "year": "2025",
-          "publication": "The Astrophysical Journal",
-          "citation_count": 21,
-          "url": "https://ui.adsabs.harvard.edu/abs/2025ApJ...986..111L/abstract"
-        },
-        {
-          "bibcode": "2026ApJ..1001...95P",
-          "title": "Revisiting the Mass Step: Environmental Dependence of Type Ia Supernovae in Low-metallicity Host Galaxies",
-          "year": "2026",
-          "publication": "The Astrophysical Journal",
-          "citation_count": 5,
-          "url": "https://ui.adsabs.harvard.edu/abs/2026ApJ..1001...95P/abstract"
-        },
-        {
-          "bibcode": "2026ApJ..1002..162F",
-          "title": "Expanding the High-z Supernova Frontier: \"Wide-area\" JWST Discoveries from the First 2 yr of COSMOS-Web",
-          "year": "2026",
-          "publication": "The Astrophysical Journal",
-          "citation_count": 5,
-          "url": "https://ui.adsabs.harvard.edu/abs/2026ApJ..1002..162F/abstract"
-        }
-      ]
+      "papers": []
     }
   ]
 }
