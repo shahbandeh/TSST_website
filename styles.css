@@ -188,6 +188,9 @@ button, a { -webkit-tap-highlight-color: transparent; }
 .button.light { color: var(--red-dark); background: #fff; }
 .connect footer { display: flex; align-items: center; justify-content: space-between; gap: 1.5rem; margin-top: 5rem; padding-top: 1.5rem; border-top: 1px solid rgba(255,255,255,.3); color: #d8bfc1; font-size: .63rem; text-transform: uppercase; letter-spacing: .12em; }
 .connect footer img { width: 7rem; height: 4rem; padding: .3rem; object-fit: contain; background: #fff; border-radius: .3rem; }
+.connect footer p { margin: 0; }
+.footer-notes { text-align: right; }
+.connect footer .site-credit { margin-top: .35rem; color: #aa9296; font-size: .5rem; letter-spacing: .08em; text-transform: none; }
 .reveal { opacity: 0; transform: translateY(20px); transition: opacity .65s, transform .65s; }
 .reveal.visible { opacity: 1; transform: none; }
 
@@ -219,6 +222,8 @@ button, a { -webkit-tap-highlight-color: transparent; }
   .project-leads { grid-template-columns: 1fr; }
   .beyond-grid, .dialog-columns { grid-template-columns: 1fr; }
   .connect footer { display: block; }
+  .connect footer > p { margin: 1rem 0; }
+  .footer-notes { margin-top: 1rem; text-align: left; }
   .scroll-cue { display: none; }
 }
 
