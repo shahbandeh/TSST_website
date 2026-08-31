@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T09:07:39.309988+00:00",
+  "generated_at": "2026-08-31T16:12:06.593712+00:00",
   "source": "NASA ADS",
   "members": [
     {
@@ -12,7 +12,7 @@
           "title": "A Spitzer Survey for Dust in Type IIn Supernovae",
           "year": "2011",
           "publication": "The Astrophysical Journal",
-          "citation_count": 153,
+          "citation_count": 152,
           "url": "https://ui.adsabs.harvard.edu/abs/2011ApJ...741....7F/abstract"
         },
         {
@@ -20,7 +20,7 @@
           "title": "Disentangling the Origin and Heating Mechanism of Supernova Dust: Late-time Spitzer Spectroscopy of the Type IIn SN 2005ip",
           "year": "2010",
           "publication": "The Astrophysical Journal",
-          "citation_count": 114,
+          "citation_count": 113,
           "url": "https://ui.adsabs.harvard.edu/abs/2010ApJ...725.1768F/abstract"
         },
         {
@@ -43,7 +43,7 @@
           "title": "Cosmological Constraints from Measurements of Type Ia Supernovae Discovered during the First 1.5 yr of the Pan-STARRS1 Survey",
           "year": "2014",
           "publication": "The Astrophysical Journal",
-          "citation_count": 349,
+          "citation_count": 350,
           "url": "https://ui.adsabs.harvard.edu/abs/2014ApJ...795...44R/abstract"
         },
         {
@@ -113,7 +113,7 @@
           "title": "Extending Supernova Spectral Templates for Next-generation Space Telescope Observations",
           "year": "2018",
           "publication": "Publications of the Astronomical Society of the Pacific",
-          "citation_count": 62,
+          "citation_count": 61,
           "url": "https://ui.adsabs.harvard.edu/abs/2018PASP..130k4504P/abstract"
         },
         {
@@ -121,7 +121,7 @@
           "title": "Turning Gravitationally Lensed Supernovae into Cosmological Probes",
           "year": "2019",
           "publication": "The Astrophysical Journal",
-          "citation_count": 60,
+          "citation_count": 59,
           "url": "https://ui.adsabs.harvard.edu/abs/2019ApJ...876..107P/abstract"
         }
       ]
@@ -144,7 +144,7 @@
           "title": "Carnegie Supernova Project-II: Near-infrared Spectroscopy of Stripped-envelope Core-collapse Supernovae",
           "year": "2022",
           "publication": "The Astrophysical Journal",
-          "citation_count": 60,
+          "citation_count": 58,
           "url": "https://ui.adsabs.harvard.edu/abs/2022ApJ...925..175S/abstract"
         },
         {
@@ -167,7 +167,7 @@
           "title": "Swope Supernova Survey 2017a (SSS17a), the optical counterpart to a gravitational wave source",
           "year": "2017",
           "publication": "Science",
-          "citation_count": 1118,
+          "citation_count": 1115,
           "url": "https://ui.adsabs.harvard.edu/abs/2017Sci...358.1556C/abstract"
         },
         {
@@ -216,12 +216,12 @@
           "url": "https://ui.adsabs.harvard.edu/abs/2024ApJ...961..187D/abstract"
         },
         {
-          "bibcode": "2023MNRAS.522.3481D",
-          "title": "SN 2021fxy: mid-ultraviolet flux suppression is a common feature of Type Ia supernovae",
-          "year": "2023",
-          "publication": "Monthly Notices of the Royal Astronomical Society",
+          "bibcode": "2026ApJ...997..179D",
+          "title": "JWST Observations of SN 2023ixf. I. Completing the Early Multiwavelength Picture with Plateau-phase Spectroscopy",
+          "year": "2026",
+          "publication": "The Astrophysical Journal",
           "citation_count": 17,
-          "url": "https://ui.adsabs.harvard.edu/abs/2023MNRAS.522.3481D/abstract"
+          "url": "https://ui.adsabs.harvard.edu/abs/2026ApJ...997..179D/abstract"
         }
       ]
     },
@@ -274,7 +274,7 @@
           "title": "Photometry and astrometry with JWST−II: NIRCam distortion correction",
           "year": "2023",
           "publication": "Astronomische Nachrichten",
-          "citation_count": 20,
+          "citation_count": 21,
           "url": "https://ui.adsabs.harvard.edu/abs/2023AN....34430006G/abstract"
         }
       ]
@@ -388,7 +388,7 @@
           "title": "Scaling relations for galaxy clusters in the Millennium-XXL simulation",
           "year": "2012",
           "publication": "Monthly Notices of the Royal Astronomical Society",
-          "citation_count": 518,
+          "citation_count": 517,
           "url": "https://ui.adsabs.harvard.edu/abs/2012MNRAS.426.2046A/abstract"
         },
         {
@@ -441,7 +441,7 @@
           "title": "The Eddington ratio-dependent 'changing look' events in NGC 2992",
           "year": "2021",
           "publication": "Monthly Notices of the Royal Astronomical Society",
-          "citation_count": 38,
+          "citation_count": 37,
           "url": "https://ui.adsabs.harvard.edu/abs/2021MNRAS.508..144G/abstract"
         }
       ]
@@ -516,7 +516,7 @@
           "title": "Influence of loosely bound extracellular polymeric substances (EPS) on the flocculation, sedimentation and dewaterability of activated sludge",
           "year": "2007",
           "publication": "Water Research",
-          "citation_count": 1610,
+          "citation_count": 1613,
           "url": "https://ui.adsabs.harvard.edu/abs/2007WatRe..41.1022L/abstract"
         },
         {
@@ -524,7 +524,7 @@
           "title": "Survey of Maneuvering Target Tracking. Part I: Dynamic Models",
           "year": "2003",
           "publication": "IEEE Transactions on Aerospace and Electronic Systems",
-          "citation_count": 645,
+          "citation_count": 646,
           "url": "https://ui.adsabs.harvard.edu/abs/2003ITAES..39.1333R/abstract"
         },
         {
@@ -578,7 +578,7 @@
           "title": "Galaxy Mergers at z gtrsim 1 in the HUDF: Evidence for a Peak in the Major Merger Rate of Massive Galaxies",
           "year": "2008",
           "publication": "The Astrophysical Journal",
-          "citation_count": 68,
+          "citation_count": 67,
           "url": "https://ui.adsabs.harvard.edu/abs/2008ApJ...678..751R/abstract"
         },
         {
