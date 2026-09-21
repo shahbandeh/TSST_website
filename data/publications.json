@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T15:03:43.715831+00:00",
+  "generated_at": "2026-09-21T15:09:04.506093+00:00",
   "source": "NASA ADS",
   "members": [
     {
@@ -216,12 +216,12 @@
           "url": "https://ui.adsabs.harvard.edu/abs/2024ApJ...961..187D/abstract"
         },
         {
-          "bibcode": "2026ApJ...997..179D",
-          "title": "JWST Observations of SN 2023ixf. I. Completing the Early Multiwavelength Picture with Plateau-phase Spectroscopy",
-          "year": "2026",
-          "publication": "The Astrophysical Journal",
+          "bibcode": "2023MNRAS.522.3481D",
+          "title": "SN 2021fxy: mid-ultraviolet flux suppression is a common feature of Type Ia supernovae",
+          "year": "2023",
+          "publication": "Monthly Notices of the Royal Astronomical Society",
           "citation_count": 17,
-          "url": "https://ui.adsabs.harvard.edu/abs/2026ApJ...997..179D/abstract"
+          "url": "https://ui.adsabs.harvard.edu/abs/2023MNRAS.522.3481D/abstract"
         }
       ]
     },
@@ -262,20 +262,20 @@
           "url": "https://ui.adsabs.harvard.edu/abs/2009JEBio..22..782G/abstract"
         },
         {
-          "bibcode": "2009JEBio..22.2077G",
-          "title": "Nestlings' carotenoid feather ornament affects parental allocation strategy and reduces maternal survival",
-          "year": "2009",
-          "publication": "Journal of Evolutionary Biology",
-          "citation_count": 21,
-          "url": "https://ui.adsabs.harvard.edu/abs/2009JEBio..22.2077G/abstract"
-        },
-        {
           "bibcode": "2023AN....34430006G",
           "title": "Photometry and astrometry with JWST−II: NIRCam distortion correction",
           "year": "2023",
           "publication": "Astronomische Nachrichten",
           "citation_count": 21,
           "url": "https://ui.adsabs.harvard.edu/abs/2023AN....34430006G/abstract"
+        },
+        {
+          "bibcode": "2009JEBio..22.2077G",
+          "title": "Nestlings' carotenoid feather ornament affects parental allocation strategy and reduces maternal survival",
+          "year": "2009",
+          "publication": "Journal of Evolutionary Biology",
+          "citation_count": 21,
+          "url": "https://ui.adsabs.harvard.edu/abs/2009JEBio..22.2077G/abstract"
         }
       ]
     },
@@ -524,7 +524,7 @@
           "title": "Survey of Maneuvering Target Tracking. Part I: Dynamic Models",
           "year": "2003",
           "publication": "IEEE Transactions on Aerospace and Electronic Systems",
-          "citation_count": 650,
+          "citation_count": 652,
           "url": "https://ui.adsabs.harvard.edu/abs/2003ITAES..39.1333R/abstract"
         },
         {
@@ -532,7 +532,7 @@
           "title": "Geometric-optical bidirectional reflectance modeling of the discrete crown vegetation canopy: effect of crown shape and mutual shadowing",
           "year": "1992",
           "publication": "IEEE Transactions on Geoscience and Remote Sensing",
-          "citation_count": 593,
+          "citation_count": 596,
           "url": "https://ui.adsabs.harvard.edu/abs/1992ITGRS..30..276L/abstract"
         }
       ]
