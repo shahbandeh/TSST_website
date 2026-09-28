@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T15:09:04.506093+00:00",
+  "generated_at": "2026-09-28T16:48:10.955014+00:00",
   "source": "NASA ADS",
   "members": [
     {
@@ -12,7 +12,7 @@
           "title": "A Spitzer Survey for Dust in Type IIn Supernovae",
           "year": "2011",
           "publication": "The Astrophysical Journal",
-          "citation_count": 153,
+          "citation_count": 154,
           "url": "https://ui.adsabs.harvard.edu/abs/2011ApJ...741....7F/abstract"
         },
         {
@@ -105,7 +105,7 @@
           "title": "Lensed Type Ia Supernova \"Encore\" at z = 2: The First Instance of Two Multiply Imaged Supernovae in the Same Host Galaxy",
           "year": "2024",
           "publication": "The Astrophysical Journal Letters",
-          "citation_count": 66,
+          "citation_count": 67,
           "url": "https://ui.adsabs.harvard.edu/abs/2024ApJ...967L..37P/abstract"
         },
         {
@@ -113,7 +113,7 @@
           "title": "Extending Supernova Spectral Templates for Next-generation Space Telescope Observations",
           "year": "2018",
           "publication": "Publications of the Astronomical Society of the Pacific",
-          "citation_count": 61,
+          "citation_count": 62,
           "url": "https://ui.adsabs.harvard.edu/abs/2018PASP..130k4504P/abstract"
         },
         {
@@ -121,7 +121,7 @@
           "title": "Turning Gravitationally Lensed Supernovae into Cosmological Probes",
           "year": "2019",
           "publication": "The Astrophysical Journal",
-          "citation_count": 59,
+          "citation_count": 60,
           "url": "https://ui.adsabs.harvard.edu/abs/2019ApJ...876..107P/abstract"
         }
       ]
@@ -136,7 +136,7 @@
           "title": "JWST observations of dust reservoirs in type IIP supernovae 2004et and 2017eaw",
           "year": "2023",
           "publication": "Monthly Notices of the Royal Astronomical Society",
-          "citation_count": 63,
+          "citation_count": 64,
           "url": "https://ui.adsabs.harvard.edu/abs/2023MNRAS.523.6048S/abstract"
         },
         {
@@ -152,7 +152,7 @@
           "title": "JWST/MIRI Observations of Newly Formed Dust in the Cold, Dense Shell of the Type IIn SN 2005ip",
           "year": "2025",
           "publication": "The Astrophysical Journal",
-          "citation_count": 29,
+          "citation_count": 31,
           "url": "https://ui.adsabs.harvard.edu/abs/2025ApJ...985..262S/abstract"
         }
       ]
@@ -167,7 +167,7 @@
           "title": "Swope Supernova Survey 2017a (SSS17a), the optical counterpart to a gravitational wave source",
           "year": "2017",
           "publication": "Science",
-          "citation_count": 1118,
+          "citation_count": 1119,
           "url": "https://ui.adsabs.harvard.edu/abs/2017Sci...358.1556C/abstract"
         },
         {
@@ -175,7 +175,7 @@
           "title": "YSE-PZ: A Transient Survey Management Platform that Empowers the Human-in-the-loop",
           "year": "2023",
           "publication": "Publications of the Astronomical Society of the Pacific",
-          "citation_count": 57,
+          "citation_count": 58,
           "url": "https://ui.adsabs.harvard.edu/abs/2023PASP..135f4501C/abstract"
         },
         {
@@ -204,7 +204,7 @@
           "title": "JWST Low-resolution MIRI Spectral Observations of SN 2021aefx: High-density Burning in a Type Ia Supernova",
           "year": "2023",
           "publication": "The Astrophysical Journal Letters",
-          "citation_count": 37,
+          "citation_count": 38,
           "url": "https://ui.adsabs.harvard.edu/abs/2023ApJ...945L...2D/abstract"
         },
         {
@@ -212,7 +212,7 @@
           "title": "JWST MIRI/Medium Resolution Spectrograph (MRS) Observations and Spectral Models of the Underluminous Type Ia Supernova 2022xkq",
           "year": "2024",
           "publication": "The Astrophysical Journal",
-          "citation_count": 23,
+          "citation_count": 24,
           "url": "https://ui.adsabs.harvard.edu/abs/2024ApJ...961..187D/abstract"
         },
         {
@@ -243,7 +243,7 @@
           "title": "LensWatch. II. Improved Photometry and Time-delay Constraints on the Strongly Lensed Type Ia Supernova 2022qmx (\"SN Zwicky\") with Hubble Space Telescope Template Observations",
           "year": "2025",
           "publication": "The Astrophysical Journal",
-          "citation_count": 10,
+          "citation_count": 11,
           "url": "https://ui.adsabs.harvard.edu/abs/2025ApJ...980..172L/abstract"
         }
       ]
@@ -262,20 +262,20 @@
           "url": "https://ui.adsabs.harvard.edu/abs/2009JEBio..22..782G/abstract"
         },
         {
-          "bibcode": "2023AN....34430006G",
-          "title": "Photometry and astrometry with JWST−II: NIRCam distortion correction",
-          "year": "2023",
-          "publication": "Astronomische Nachrichten",
-          "citation_count": 21,
-          "url": "https://ui.adsabs.harvard.edu/abs/2023AN....34430006G/abstract"
-        },
-        {
           "bibcode": "2009JEBio..22.2077G",
           "title": "Nestlings' carotenoid feather ornament affects parental allocation strategy and reduces maternal survival",
           "year": "2009",
           "publication": "Journal of Evolutionary Biology",
           "citation_count": 21,
           "url": "https://ui.adsabs.harvard.edu/abs/2009JEBio..22.2077G/abstract"
+        },
+        {
+          "bibcode": "2023AN....34430006G",
+          "title": "Photometry and astrometry with JWST−II: NIRCam distortion correction",
+          "year": "2023",
+          "publication": "Astronomische Nachrichten",
+          "citation_count": 21,
+          "url": "https://ui.adsabs.harvard.edu/abs/2023AN....34430006G/abstract"
         }
       ]
     },
@@ -425,7 +425,7 @@
           "title": "A Systematic Analysis of the X-Ray Emission in Optically Selected Tidal Disruption Events: Observational Evidence for the Unification of the Optically and X-Ray-selected Populations",
           "year": "2024",
           "publication": "The Astrophysical Journal",
-          "citation_count": 120,
+          "citation_count": 121,
           "url": "https://ui.adsabs.harvard.edu/abs/2024ApJ...966..160G/abstract"
         },
         {
@@ -433,7 +433,7 @@
           "title": "X-ray eruptions every 22 days from the nucleus of a nearby galaxy",
           "year": "2024",
           "publication": "Nature Astronomy",
-          "citation_count": 83,
+          "citation_count": 84,
           "url": "https://ui.adsabs.harvard.edu/abs/2024NatAs...8..347G/abstract"
         },
         {
@@ -456,7 +456,7 @@
           "title": "JWST Discovery of a High-redshift Tidal Disruption Event Candidate in COSMOS-Web",
           "year": "2025",
           "publication": "The Astrophysical Journal",
-          "citation_count": 14,
+          "citation_count": 15,
           "url": "https://ui.adsabs.harvard.edu/abs/2025ApJ...990..149K/abstract"
         },
         {
@@ -464,7 +464,7 @@
           "title": "Tidal Disruption Event Rates across Cosmic Time: Forecasts for LSST, Roman, and JWST and Their Constraints on the Supermassive Black Hole Mass Function",
           "year": "2026",
           "publication": "The Astrophysical Journal",
-          "citation_count": 3,
+          "citation_count": 4,
           "url": "https://ui.adsabs.harvard.edu/abs/2026ApJ..1006...20K/abstract"
         }
       ]
@@ -516,7 +516,7 @@
           "title": "Influence of loosely bound extracellular polymeric substances (EPS) on the flocculation, sedimentation and dewaterability of activated sludge",
           "year": "2007",
           "publication": "Water Research",
-          "citation_count": 1613,
+          "citation_count": 1614,
           "url": "https://ui.adsabs.harvard.edu/abs/2007WatRe..41.1022L/abstract"
         },
         {
@@ -524,7 +524,7 @@
           "title": "Survey of Maneuvering Target Tracking. Part I: Dynamic Models",
           "year": "2003",
           "publication": "IEEE Transactions on Aerospace and Electronic Systems",
-          "citation_count": 652,
+          "citation_count": 658,
           "url": "https://ui.adsabs.harvard.edu/abs/2003ITAES..39.1333R/abstract"
         },
         {
@@ -547,7 +547,7 @@
           "title": "The Hubble Deep Field: Observations, Data Reduction, and Galaxy Photometry",
           "year": "1996",
           "publication": "The Astronomical Journal",
-          "citation_count": 1111,
+          "citation_count": 1112,
           "url": "https://ui.adsabs.harvard.edu/abs/1996AJ....112.1335W/abstract"
         },
         {
