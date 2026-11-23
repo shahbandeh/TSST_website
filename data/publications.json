@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T18:38:52.346700+00:00",
+  "generated_at": "2026-11-23T20:18:23.679417+00:00",
   "source": "NASA ADS",
   "members": [
     {
@@ -12,7 +12,7 @@
           "title": "A Spitzer Survey for Dust in Type IIn Supernovae",
           "year": "2011",
           "publication": "The Astrophysical Journal",
-          "citation_count": 162,
+          "citation_count": 163,
           "url": "https://ui.adsabs.harvard.edu/abs/2011ApJ...741....7F/abstract"
         },
         {
@@ -51,7 +51,7 @@
           "title": "WFPC2 Images of the Central Regions of Early-Type Galaxies. I. The Data",
           "year": "2001",
           "publication": "The Astronomical Journal",
-          "citation_count": 214,
+          "citation_count": 215,
           "url": "https://ui.adsabs.harvard.edu/abs/2001AJ....121.2431R/abstract"
         },
         {
@@ -59,7 +59,7 @@
           "title": "Testing LMC Microlensing Scenarios: The Discrimination Power of the SuperMACHO Microlensing Survey",
           "year": "2005",
           "publication": "The Astrophysical Journal",
-          "citation_count": 209,
+          "citation_count": 210,
           "url": "https://ui.adsabs.harvard.edu/abs/2005ApJ...634.1103R/abstract"
         }
       ]
@@ -167,7 +167,7 @@
           "title": "Swope Supernova Survey 2017a (SSS17a), the optical counterpart to a gravitational wave source",
           "year": "2017",
           "publication": "Science",
-          "citation_count": 1155,
+          "citation_count": 1157,
           "url": "https://ui.adsabs.harvard.edu/abs/2017Sci...358.1556C/abstract"
         },
         {
@@ -204,7 +204,7 @@
           "title": "JWST Low-resolution MIRI Spectral Observations of SN 2021aefx: High-density Burning in a Type Ia Supernova",
           "year": "2023",
           "publication": "The Astrophysical Journal Letters",
-          "citation_count": 44,
+          "citation_count": 45,
           "url": "https://ui.adsabs.harvard.edu/abs/2023ApJ...945L...2D/abstract"
         },
         {
@@ -212,7 +212,7 @@
           "title": "JWST MIRI/Medium Resolution Spectrograph (MRS) Observations and Spectral Models of the Underluminous Type Ia Supernova 2022xkq",
           "year": "2024",
           "publication": "The Astrophysical Journal",
-          "citation_count": 30,
+          "citation_count": 31,
           "url": "https://ui.adsabs.harvard.edu/abs/2024ApJ...961..187D/abstract"
         },
         {
@@ -266,7 +266,7 @@
           "title": "Photometry and astrometry with JWST−II: NIRCam distortion correction",
           "year": "2023",
           "publication": "Astronomische Nachrichten",
-          "citation_count": 24,
+          "citation_count": 25,
           "url": "https://ui.adsabs.harvard.edu/abs/2023AN....34430006G/abstract"
         },
         {
@@ -388,7 +388,7 @@
           "title": "Scaling relations for galaxy clusters in the Millennium-XXL simulation",
           "year": "2012",
           "publication": "Monthly Notices of the Royal Astronomical Society",
-          "citation_count": 534,
+          "citation_count": 536,
           "url": "https://ui.adsabs.harvard.edu/abs/2012MNRAS.426.2046A/abstract"
         },
         {
@@ -396,7 +396,7 @@
           "title": "One simulation to fit them all - changing the background parameters of a cosmological N-body simulation",
           "year": "2010",
           "publication": "Monthly Notices of the Royal Astronomical Society",
-          "citation_count": 244,
+          "citation_count": 245,
           "url": "https://ui.adsabs.harvard.edu/abs/2010MNRAS.405..143A/abstract"
         },
         {
@@ -425,7 +425,7 @@
           "title": "A Systematic Analysis of the X-Ray Emission in Optically Selected Tidal Disruption Events: Observational Evidence for the Unification of the Optically and X-Ray-selected Populations",
           "year": "2024",
           "publication": "The Astrophysical Journal",
-          "citation_count": 138,
+          "citation_count": 141,
           "url": "https://ui.adsabs.harvard.edu/abs/2024ApJ...966..160G/abstract"
         },
         {
@@ -464,7 +464,7 @@
           "title": "Tidal Disruption Event Rates across Cosmic Time: Forecasts for LSST, Roman, and JWST and Their Constraints on the Supermassive Black Hole Mass Function",
           "year": "2026",
           "publication": "The Astrophysical Journal",
-          "citation_count": 9,
+          "citation_count": 10,
           "url": "https://ui.adsabs.harvard.edu/abs/2026ApJ..1006...20K/abstract"
         }
       ]
@@ -485,7 +485,7 @@
           "title": "Accretion into the central cavity of a circumbinary disc",
           "year": "2013",
           "publication": "Monthly Notices of the Royal Astronomical Society",
-          "citation_count": 304,
+          "citation_count": 305,
           "url": "https://ui.adsabs.harvard.edu/abs/2013MNRAS.436.2997D/abstract"
         },
         {
@@ -493,7 +493,7 @@
           "title": "Relativistic boost as the cause of periodicity in a massive black-hole binary candidate",
           "year": "2015",
           "publication": "Nature",
-          "citation_count": 202,
+          "citation_count": 204,
           "url": "https://ui.adsabs.harvard.edu/abs/2015Natur.525..351D/abstract"
         },
         {
@@ -501,7 +501,7 @@
           "title": "Orbital Evolution of Equal-mass Eccentric Binaries due to a Gas Disk: Eccentric Inspirals and Circular Outspirals",
           "year": "2021",
           "publication": "The Astrophysical Journal Letters",
-          "citation_count": 152,
+          "citation_count": 154,
           "url": "https://ui.adsabs.harvard.edu/abs/2021ApJ...914L..21D/abstract"
         }
       ]
@@ -524,7 +524,7 @@
           "title": "Survey of Maneuvering Target Tracking. Part I: Dynamic Models",
           "year": "2003",
           "publication": "IEEE Transactions on Aerospace and Electronic Systems",
-          "citation_count": 711,
+          "citation_count": 718,
           "url": "https://ui.adsabs.harvard.edu/abs/2003ITAES..39.1333R/abstract"
         },
         {
@@ -532,7 +532,7 @@
           "title": "Geometric-optical bidirectional reflectance modeling of the discrete crown vegetation canopy: effect of crown shape and mutual shadowing",
           "year": "1992",
           "publication": "IEEE Transactions on Geoscience and Remote Sensing",
-          "citation_count": 617,
+          "citation_count": 623,
           "url": "https://ui.adsabs.harvard.edu/abs/1992ITGRS..30..276L/abstract"
         }
       ]
@@ -547,7 +547,7 @@
           "title": "The Hubble Deep Field: Observations, Data Reduction, and Galaxy Photometry",
           "year": "1996",
           "publication": "The Astronomical Journal",
-          "citation_count": 1121,
+          "citation_count": 1122,
           "url": "https://ui.adsabs.harvard.edu/abs/1996AJ....112.1335W/abstract"
         },
         {
